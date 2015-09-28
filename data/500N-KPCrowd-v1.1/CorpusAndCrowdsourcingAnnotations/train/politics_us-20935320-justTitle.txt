@@ -1,0 +1,1 @@
+Quotes of the day
