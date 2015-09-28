@@ -1,0 +1,8027 @@
+(lp0
+(lp1
+(S'Watkins Glen'
+p2
+V0.901989
+p3
+tp4
+a(S'Watkins Glen International'
+p5
+V0.86998
+p6
+tp7
+a(S'Summer Jam'
+p8
+V0.812152
+p9
+tp10
+a(S'Super Ball'
+p11
+V0.72284
+p12
+tp13
+a(S'major music festival'
+p14
+V0.721774
+p15
+tp16
+a(S'enjoyable little video'
+p17
+V0.686643
+p18
+tp19
+a(S'Phish HQ'
+p20
+V0.632301
+p21
+tp22
+a(S'Big announcement'
+p23
+V0.543545
+p24
+tp25
+a(S'Gothamist HQ'
+p26
+V0.516327
+p27
+tp28
+a(S'resident hippie'
+p29
+V0.508255
+p30
+tp31
+a(S'New York'
+p32
+V0.497998
+p33
+tp34
+a(S'Phish notes'
+p35
+V0.494701
+p36
+tp37
+a(S'traffic nightmare'
+p38
+V0.470976
+p39
+tp40
+a(S'phellow Americans'
+p41
+V0.458903
+p42
+tp43
+a(S'phossil phuel'
+p44
+V0.455169
+p45
+tp46
+a(S'biggest ball'
+p47
+V0.443839
+p48
+tp49
+a(S'Largest audience'
+p50
+V0.440153
+p51
+tp52
+a(S'Clifford Ball'
+p53
+V0.435515
+p54
+tp55
+a(S'pop festival'
+p56
+V0.421194
+p57
+tp58
+a(S'little traffic'
+p59
+V0.421149
+p60
+tp61
+aa(lp62
+(S'better world'
+p63
+V0.947148
+p64
+tp65
+a(S'Mikael Persbrandt'
+p66
+V0.840098
+p67
+tp68
+a(S'William Johnk Nielsen'
+p69
+V0.834701
+p70
+tp71
+a(S'Arnesen/Sony Pictures Classic'
+p72
+V0.833658
+p73
+tp74
+a(S'Susanne Bier'
+p75
+V0.775385
+p76
+tp77
+a(S'Susanne Bier Genre'
+p78
+V0.771848
+p79
+tp80
+a(S'Arnesen/Sony Pictures Classics'
+p81
+V0.746982
+p82
+tp83
+a(S'Trine Dyrholm'
+p84
+V0.704582
+p85
+tp86
+a(S'Better World Director'
+p87
+V0.685945
+p88
+tp89
+a(S'adolescent son Elias'
+p90
+V0.661524
+p91
+tp92
+a(S'ethical dilemmas'
+p93
+V0.660868
+p94
+tp95
+a(S'developing-world refugee camp'
+p96
+V0.659302
+p97
+tp98
+a(S'Drama Running Time'
+p99
+V0.648327
+p100
+tp101
+a(S'Markus Rygaard'
+p102
+V0.642454
+p103
+tp104
+a(S'potent melodramatic brew'
+p105
+V0.638868
+p106
+tp107
+a(S'Best Foreign Language'
+p108
+V0.63847
+p109
+tp110
+a(S'unspecified African nation'
+p111
+V0.637974
+p112
+tp113
+a(S'overtly melodramatic situations'
+p114
+V0.636512
+p115
+tp116
+a(S'humanitarian Danish doctor'
+p117
+V0.635516
+p118
+tp119
+a(S'attractively shot drama'
+p120
+V0.630422
+p121
+tp122
+a(S'seemingly polite boy'
+p123
+V0.629923
+p124
+tp125
+a(S'Bier cuts'
+p126
+V0.62447
+p127
+tp128
+a(S'brutal local warlord'
+p129
+V0.620271
+p130
+tp131
+a(S'whips absent parents'
+p132
+V0.619833
+p133
+tp134
+a(S'genuinely disturbing moments'
+p135
+V0.619411
+p136
+tp137
+a(S'chilly Danish greens'
+p138
+V0.618415
+p139
+tp140
+a(S'neatly tied bow'
+p141
+V0.617082
+p142
+tp143
+a(S'impotent authority figures'
+p144
+V0.616673
+p145
+tp146
+a(S'warm African golds'
+p147
+V0.611687
+p148
+tp149
+a(S'Pictures Classics Contrasting'
+p150
+V0.610195
+p151
+tp152
+a(S'Big Man'
+p153
+V0.602974
+p154
+tp155
+a(S'Danish melodrama'
+p156
+V0.554613
+p157
+tp158
+a(S'tribal violence'
+p159
+V0.552039
+p160
+tp161
+a(S'disturbing content'
+p162
+V0.548542
+p163
+tp164
+a(S'family strife'
+p165
+V0.545863
+p166
+tp167
+a(S'Ulrich Thomsen'
+p168
+V0.54418
+p169
+tp170
+a(S'Papa Anton'
+p171
+V0.540814
+p172
+tp173
+a(S'English subtitles'
+p174
+V0.540653
+p175
+tp176
+a(S'oft-bullied son'
+p177
+V0.540574
+p178
+tp179
+a(S'additional violence'
+p180
+V0.53917
+p181
+tp182
+a(S'polite kid'
+p183
+V0.536162
+p184
+tp185
+a(S'Oscar voters'
+p186
+V0.535676
+p187
+tp188
+a(S'better movie'
+p189
+V0.528376
+p190
+tp191
+a(S'queasy moments'
+p192
+V0.528228
+p193
+tp194
+a(S'right place'
+p195
+V0.527924
+p196
+tp197
+a(S'school bully'
+p198
+V0.525922
+p199
+tp200
+a(S'Hippocratic oath'
+p201
+V0.52406
+p202
+tp203
+a(S'evil cycle'
+p204
+V0.523604
+p205
+tp206
+a(S'art houses'
+p207
+V0.52219
+p208
+tp209
+aa(lp210
+(S'Hailee Steinfeld'
+p211
+V0.960183
+p212
+tp213
+a(S'star Hailee Steinfeld'
+p214
+V0.895875
+p215
+tp216
+a(S'actress Hailee Steinfeld'
+p217
+V0.88415
+p218
+tp219
+a(S'True Grit'
+p220
+V0.736775
+p221
+tp222
+a(S'Daily Mail Reporter'
+p223
+V0.691807
+p224
+tp225
+a(S'writer Lindsay Devlin'
+p226
+V0.670574
+p227
+tp228
+a(S'western True Grit'
+p229
+V0.664886
+p230
+tp231
+a(S'lead role'
+p232
+V0.633368
+p233
+tp234
+a(S'Cohen Brothers adaptation'
+p235
+V0.61814
+p236
+tp237
+a(S'television bit parts'
+p238
+V0.614583
+p239
+tp240
+a(S'young California native'
+p241
+V0.613851
+p242
+tp243
+a(S'classic John Wayne'
+p244
+V0.60483
+p245
+tp246
+a(S'classic fairytale'
+p247
+V0.529284
+p248
+tp249
+a(S'14-year-old star'
+p250
+V0.511162
+p251
+tp252
+a(S'unfortunate princess'
+p253
+V0.482696
+p254
+tp255
+a(S'Beauty Oscar'
+p256
+V0.4708
+p257
+tp258
+a(S'new movie'
+p259
+V0.455459
+p260
+tp261
+a(S'dream world'
+p262
+V0.435737
+p263
+tp264
+a(S'new version'
+p265
+V0.433901
+p266
+tp267
+a(S'novel-based film'
+p268
+V0.431501
+p269
+tp270
+a(S'upcoming book'
+p271
+V0.430971
+p272
+tp273
+a(S'Cat Patrick'
+p274
+V0.430353
+p275
+tp276
+a(S'Academy Award'
+p277
+V0.426779
+p278
+tp279
+a(S'Jeff Bridges'
+p280
+V0.420404
+p281
+tp282
+a(S're-visioning'
+p283
+V0.29226
+p284
+tp285
+a(S'comments'
+p286
+V0.267895
+p287
+tp288
+a(S'article'
+p289
+V0.26788
+p290
+tp291
+a(S'views'
+p292
+V0.258045
+p293
+tp294
+a(S'spin'
+p295
+V0.244842
+p296
+tp297
+a(S'Updated'
+p298
+V0.24225
+p299
+tp300
+a(S'story'
+p301
+V0.23846
+p302
+tp303
+a(S'screen'
+p304
+V0.238374
+p305
+tp306
+a(S'Deadline.com'
+p307
+V0.237919
+p308
+tp309
+a(S'talks'
+p310
+V0.23737
+p311
+tp312
+a(S'offers'
+p313
+V0.235926
+p314
+tp315
+a(S'table.'
+p316
+V0.235884
+p317
+tp318
+a(S'comment'
+p319
+V0.235571
+p320
+tp321
+a(S'Share'
+p322
+V0.235059
+p323
+tp324
+aa(lp325
+(S'Facebook Twitter Google'
+p326
+V0.961214
+p327
+tp328
+a(S'Share Facebook Twitter'
+p329
+V0.944883
+p330
+tp331
+a(S'Twitter Google Email'
+p332
+V0.910994
+p333
+tp334
+a(S'Stranger Tides'
+p335
+V0.800202
+p336
+tp337
+a(S'Email Johnny Depp'
+p338
+V0.711752
+p339
+tp340
+a(S'character Johnny Depp'
+p341
+V0.709844
+p342
+tp343
+a(S'future Pirates films'
+p344
+V0.709176
+p345
+tp346
+a(S'Comments Share Facebook'
+p347
+V0.641532
+p348
+tp349
+a(S'Producer Jerry Bruckheimer'
+p350
+V0.640738
+p351
+tp352
+a(S'Pirates tale'
+p353
+V0.62945
+p354
+tp355
+a(S'forthcoming Pirates'
+p356
+V0.626019
+p357
+tp358
+a(S'Pirates blockbusters'
+p359
+V0.624711
+p360
+tp361
+a(S'Pirates flick'
+p362
+V0.605451
+p363
+tp364
+a(S'woozy buccaneer Captain'
+p365
+V0.565324
+p366
+tp367
+a(S'Caribbean film'
+p368
+V0.493361
+p369
+tp370
+a(S'Jack Sparrow'
+p371
+V0.445584
+p372
+tp373
+a(S'stand-alone stories'
+p374
+V0.444161
+p375
+tp376
+a(S'test screenings'
+p377
+V0.441152
+p378
+tp379
+a(S'key characters'
+p380
+V0.439705
+p381
+tp382
+a(S'story line'
+p383
+V0.436884
+p384
+tp385
+a(S'new story'
+p386
+V0.426404
+p387
+tp388
+a(S'audience'
+p389
+V0.364714
+p390
+tp391
+a(S'instalment'
+p392
+V0.361193
+p393
+tp394
+a(S'screenplay'
+p395
+V0.330684
+p396
+tp397
+a(S'trilogy'
+p398
+V0.328152
+p399
+tp400
+a(S'success'
+p401
+V0.326182
+p402
+tp403
+a(S'works'
+p404
+V0.324354
+p405
+tp406
+aa(lp407
+(S'percent'
+p408
+V0.979748
+p409
+tp410
+a(S'larger rival Inditex'
+p411
+V0.931459
+p412
+tp413
+a(S'H&M'
+p414
+V0.77307
+p415
+tp416
+a(S'percent jump'
+p417
+V0.735221
+p418
+tp419
+a(S'percent advance'
+p420
+V0.71969
+p421
+tp422
+a(S'second-largest clothing retailer'
+p423
+V0.702797
+p424
+tp425
+a(S'Trench Coat H&M'
+p426
+V0.702495
+p427
+tp428
+a(S'H&M sources two-thirds'
+p429
+V0.699674
+p430
+tp431
+a(S'rival Inditex SA'
+p432
+V0.696066
+p433
+tp434
+a(S'H&M Chief Executive'
+p435
+V0.693092
+p436
+tp437
+a(S'gross margin'
+p438
+V0.677111
+p439
+tp440
+a(S'analyst Anne Critchlow'
+p441
+V0.672455
+p442
+tp443
+a(S'Officer Karl-Johan Persson'
+p444
+V0.656418
+p445
+tp446
+a(S'unfavourable weather conditions'
+p447
+V0.64677
+p448
+tp449
+a(S'analyst Richard Chamberlain'
+p450
+V0.645823
+p451
+tp452
+a(S'continued restrained consumption'
+p453
+V0.64372
+p454
+tp455
+a(S'Zara stores'
+p456
+V0.59834
+p457
+tp458
+a(S'H&M shares'
+p459
+V0.584367
+p460
+tp461
+a(S'Mauritz AB'
+p462
+V0.568547
+p463
+tp464
+a(S'first-quarter profit'
+p465
+V0.566343
+p466
+tp467
+a(S'Stockholm-based company'
+p468
+V0.566118
+p469
+tp470
+a(S'Bershka stores'
+p471
+V0.56398
+p472
+tp473
+a(S'higher costs'
+p474
+V0.561114
+p475
+tp476
+a(S'year-earlier period'
+p477
+V0.557754
+p478
+tp479
+a(S'Chinese stores'
+p480
+V0.556181
+p481
+tp482
+a(S'Liberum Capital'
+p483
+V0.555406
+p484
+tp485
+a(S'Net income'
+p486
+V0.553986
+p487
+tp488
+a(S'average estimate'
+p489
+V0.553277
+p490
+tp491
+a(S'new stores'
+p492
+V0.550906
+p493
+tp494
+a(S'market-share gains'
+p495
+V0.547069
+p496
+tp497
+a(S'kronor'
+p498
+V0.543984
+p499
+tp500
+a(S'massive bet'
+p501
+V0.542507
+p502
+tp503
+a(S'Simon Irwin'
+p504
+V0.542179
+p505
+tp506
+a(S'press conference'
+p507
+V0.540777
+p508
+tp509
+a(S'Massimo Dutti'
+p510
+V0.540577
+p511
+tp512
+a(S'heavy snowstorms'
+p513
+V0.540345
+p514
+tp515
+a(S'U.K. Website'
+p516
+V0.539873
+p517
+tp518
+a(S'Swedish retailer'
+p519
+V0.539632
+p520
+tp521
+a(S'input costs'
+p522
+V0.538393
+p523
+tp524
+a(S'longer term'
+p525
+V0.536298
+p526
+tp527
+a(S'Armorel Kenna'
+p528
+V0.535581
+p529
+tp530
+a(S'current environment'
+p531
+V0.533635
+p532
+tp533
+a(S'\xe2\x80\x98More Robust'
+p534
+V0.533422
+p535
+tp536
+a(S'local currencies'
+p537
+V0.532142
+p538
+tp539
+a(S'discount-driven market'
+p540
+V0.530548
+p541
+tp542
+a(S'Spanish retailer'
+p543
+V0.530437
+p544
+tp545
+a(S'smaller cities'
+p546
+V0.529246
+p547
+tp548
+a(S'mid-market positioning'
+p549
+V0.528975
+p550
+tp551
+a(S'price activities'
+p552
+V0.528865
+p553
+tp554
+a(S'sell rating'
+p555
+V0.528233
+p556
+tp557
+aa(lp558
+(S'executive Rajiv Goel'
+p559
+V0.986877
+p560
+tp561
+a(S'Intel executive Rajiv'
+p562
+V0.885125
+p563
+tp564
+a(S'Clearwire stuff Raj'
+p565
+V0.710133
+p566
+tp567
+a(S'Uh huh Raj'
+p568
+V0.706885
+p569
+tp570
+a(S'Goldman Sachs'
+p571
+V0.674398
+p572
+tp573
+a(S'F***ed man Raj'
+p574
+V0.669183
+p575
+tp576
+a(S'Goldman Sachs Chairman'
+p577
+V0.657137
+p578
+tp579
+a(S'Goldman Sachs directors'
+p580
+V0.646492
+p581
+tp582
+a(S'confidential board deliberations'
+p583
+V0.629531
+p584
+tp585
+a(S'brother Rengan Rajaratnam'
+p586
+V0.629345
+p587
+tp588
+a(S'CEO Lloyd Blankfein'
+p589
+V0.613719
+p590
+tp591
+a(S'Intel joint venture'
+p592
+V0.608751
+p593
+tp594
+a(S'attorney Terence Lynam'
+p595
+V0.605252
+p596
+tp597
+a(S'defense attorneys'
+p598
+V0.579962
+p599
+tp600
+a(S'Swiss bank information'
+p601
+V0.567646
+p602
+tp603
+a(S'Partner Anil Kumar'
+p604
+V0.564046
+p605
+tp606
+a(S'Raj Rajaratnam'
+p607
+V0.559006
+p608
+tp609
+a(S'Rajat Gupta'
+p610
+V0.532955
+p611
+tp612
+a(S'Rajaratnam tapes'
+p613
+V0.481147
+p614
+tp615
+a(S'overflow crowd'
+p616
+V0.47948
+p617
+tp618
+a(S'board member'
+p619
+V0.476277
+p620
+tp621
+a(S'undercover recording'
+p622
+V0.473222
+p623
+tp624
+a(S'administrative proceeding'
+p625
+V0.473219
+p626
+tp627
+a(S'board meeting'
+p628
+V0.472938
+p629
+tp630
+a(S'encore presentation'
+p631
+V0.472677
+p632
+tp633
+a(S'insurance company'
+p634
+V0.468855
+p635
+tp636
+a(S'Defense lawyers'
+p637
+V0.45904
+p638
+tp639
+a(S'public information'
+p640
+V0.456665
+p641
+tp642
+a(S'chip maker'
+p643
+V0.455313
+p644
+tp645
+a(S'upcoming deals'
+p646
+V0.453167
+p647
+tp648
+a(S'Intel-Clearwire venture'
+p649
+V0.451994
+p650
+tp651
+a(S'phone conversation'
+p652
+V0.451678
+p653
+tp654
+a(S'advance tips'
+p655
+V0.450906
+p656
+tp657
+a(S'expert analysis'
+p658
+V0.449267
+p659
+tp660
+a(S'news articles'
+p661
+V0.4483
+p662
+tp663
+a(S'press releases'
+p664
+V0.448206
+p665
+tp666
+a(S'close friend'
+p667
+V0.44764
+p668
+tp669
+a(S'general public'
+p670
+V0.447152
+p671
+tp672
+a(S'lighter moments'
+p673
+V0.446839
+p674
+tp675
+a(S'similar line'
+p676
+V0.444267
+p677
+tp678
+a(S'tax returns'
+p679
+V0.4419
+p680
+tp681
+a(S'cell phone'
+p682
+V0.440902
+p683
+tp684
+a(S'Rajaratnam/Goel friendship'
+p685
+V0.436698
+p686
+tp687
+a(S'cross examination'
+p688
+V0.436527
+p689
+tp690
+a(S'Jurors'
+p691
+V0.375382
+p692
+tp693
+a(S'Prosecutors'
+p694
+V0.36243
+p695
+tp696
+a(S'trial'
+p697
+V0.358668
+p698
+tp699
+a(S'Thursday'
+p700
+V0.347624
+p701
+tp702
+a(S'wrongdoing'
+p703
+V0.339342
+p704
+tp705
+a(S'Wachovia'
+p706
+V0.337907
+p707
+tp708
+aa(lp709
+(S'Google'
+p710
+V0.926818
+p711
+tp712
+a(S'Google Information Technology'
+p713
+V0.783231
+p714
+tp715
+a(S'Google\xe2\x80\x99s revenues'
+p716
+V0.621551
+p717
+tp718
+a(S'Google enterprises'
+p719
+V0.611446
+p720
+tp721
+a(S'Google businesses'
+p722
+V0.598756
+p723
+tp724
+a(S'Google Advertising'
+p725
+V0.588199
+p726
+tp727
+a(S'China'
+p728
+V0.575852
+p729
+tp730
+a(S'possible tax avoidance'
+p731
+V0.559188
+p732
+tp733
+a(S'tax violations'
+p734
+V0.558488
+p735
+tp736
+a(S'subsidiaries Chinese authorities'
+p737
+V0.545471
+p738
+tp739
+a(S'internet search giant'
+p740
+V0.540224
+p741
+tp742
+a(S'Economic Daily'
+p743
+V0.536796
+p744
+tp745
+a(S'Chinese-language Economic Daily'
+p746
+V0.53146
+p747
+tp748
+a(S'separate firm'
+p749
+V0.527788
+p750
+tp751
+a(S'Chinese tax law'
+p752
+V0.523581
+p753
+tp754
+a(S'internet censorship'
+p755
+V0.516114
+p756
+tp757
+a(S'taxation authorities'
+p758
+V0.514832
+p759
+tp760
+a(S'largest internet market'
+p761
+V0.511062
+p762
+tp763
+a(S'official Xinhua news'
+p764
+V0.492782
+p765
+tp766
+a(S'relevant tax laws'
+p767
+V0.490505
+p768
+tp769
+a(S'companies'
+p770
+V0.487554
+p771
+tp772
+a(S'sole first-tier reseller'
+p773
+V0.486865
+p774
+tp775
+a(S'spokeswoman Jiang Yu'
+p776
+V0.485925
+p777
+tp778
+a(S'Chinese government'
+p779
+V0.468195
+p780
+tp781
+a(S'internet company'
+p782
+V0.400929
+p783
+tp784
+a(S'tax rules'
+p785
+V0.398174
+p786
+tp787
+a(S'China\xe2\x80\x99s internet'
+p788
+V0.394951
+p789
+tp790
+a(S'state-run newspaper'
+p791
+V0.392016
+p792
+tp793
+a(S'Long-running feud'
+p794
+V0.391101
+p795
+tp796
+a(S'accused companies'
+p797
+V0.383487
+p798
+tp799
+a(S'China service'
+p800
+V0.381656
+p801
+tp802
+a(S'high-profile companies'
+p803
+V0.378128
+p804
+tp805
+a(S'unjustified claims'
+p806
+V0.37346
+p807
+tp808
+a(S'foreign companies'
+p809
+V0.370767
+p810
+tp811
+a(S'homegrown Baidu'
+p812
+V0.368871
+p813
+tp814
+a(S'small percentage'
+p815
+V0.365885
+p816
+tp817
+a(S'Beijing-based company'
+p818
+V0.365705
+p819
+tp820
+a(S'anti-authoritarian uprisings'
+p821
+V0.365575
+p822
+tp823
+a(S'Marbridge Consulting'
+p824
+V0.364283
+p825
+tp826
+a(S'search market'
+p827
+V0.364177
+p828
+tp829
+a(S'difficult times'
+p830
+V0.363857
+p831
+tp832
+a(S'Mark Natkin'
+p833
+V0.362508
+p834
+tp835
+a(S'fresh headaches'
+p836
+V0.361093
+p837
+tp838
+a(S'total value'
+p839
+V0.360084
+p840
+tp841
+a(S'brief story'
+p842
+V0.357315
+p843
+tp844
+a(S'search engine'
+p845
+V0.355674
+p846
+tp847
+a(S'host country'
+p848
+V0.351117
+p849
+tp850
+a(S'global reputation'
+p851
+V0.3511
+p852
+tp853
+a(S'local laws'
+p854
+V0.348873
+p855
+tp856
+a(S'foreign ministry'
+p857
+V0.347069
+p858
+tp859
+aa(lp860
+(S'tax break'
+p861
+V0.990269
+p862
+tp863
+a(S'oil companies'
+p864
+V0.871764
+p865
+tp866
+a(S'Gov. Sean Parnell'
+p867
+V0.787407
+p868
+tp869
+a(S'state oil production'
+p870
+V0.715662
+p871
+tp872
+a(S'state Rep. Bob'
+p873
+V0.714848
+p874
+tp875
+a(S'Alaska lawmaker'
+p876
+V0.624162
+p877
+tp878
+a(S'Trans-Alaska pipeline'
+p879
+V0.591621
+p880
+tp881
+a(S'certain restrictions'
+p882
+V0.590988
+p883
+tp884
+a(S'oil taxes'
+p885
+V0.581979
+p886
+tp887
+a(S'certain metrics'
+p888
+V0.581731
+p889
+tp890
+a(S'clear message'
+p891
+V0.581182
+p892
+tp893
+a(S'current levels'
+p894
+V0.569048
+p895
+tp896
+a(S'amendment'
+p897
+V0.567641
+p898
+tp899
+a(S'juneau'
+p900
+V0.502629
+p901
+tp902
+a(S'Miller'
+p903
+V0.495735
+p904
+tp905
+a(S'percent'
+p906
+V0.47898
+p907
+tp908
+a(S'benefit'
+p909
+V0.469586
+p910
+tp911
+a(S'statement'
+p912
+V0.462006
+p913
+tp914
+a(S'UPI'
+p915
+V0.459767
+p916
+tp917
+a(S'Alaskans'
+p918
+V0.452131
+p919
+tp920
+a(S'declines'
+p921
+V0.450157
+p922
+tp923
+a(S'legislators'
+p924
+V0.445618
+p925
+tp926
+a(S'stake'
+p927
+V0.443433
+p928
+tp929
+a(S'Republican'
+p930
+V0.443109
+p931
+tp932
+a(S'barrels'
+p933
+V0.441827
+p934
+tp935
+a(S'decade'
+p936
+V0.439632
+p937
+tp938
+a(S'Friday'
+p939
+V0.438059
+p940
+tp941
+a(S'breaks'
+p942
+V0.435114
+p943
+tp944
+a(S'investments'
+p945
+V0.43357
+p946
+tp947
+a(S'plans'
+p948
+V0.433494
+p949
+tp950
+a(S'time'
+p951
+V0.432161
+p952
+tp953
+a(S'do-nothing'
+p954
+V0.43181
+p955
+tp956
+a(S'strategy'
+p957
+V0.431781
+p958
+tp959
+aa(lp960
+(S'Borussia Dortmund team'
+p961
+V0.91428
+p962
+tp963
+a(S'Dortmund police spokesman'
+p964
+V0.796516
+p965
+tp966
+a(S'unsolved attempted blackmail'
+p967
+V0.724481
+p968
+tp969
+a(S'25-year-old German man'
+p970
+V0.632282
+p971
+tp972
+a(S'German soccer stadium'
+p973
+V0.580708
+p974
+tp975
+a(S'Local news agency'
+p976
+V0.556545
+p977
+tp978
+a(S'blackmail plot'
+p979
+V0.526588
+p980
+tp981
+a(S'general criminal motive'
+p982
+V0.508359
+p983
+tp984
+a(S'upcoming Bundesliga match'
+p985
+V0.489495
+p986
+tp987
+a(S'blackmail bid'
+p988
+V0.46725
+p989
+tp990
+a(S'federal spokesman'
+p991
+V0.338354
+p992
+tp993
+a(S'parking garage'
+p994
+V0.314791
+p995
+tp996
+a(S'German Embassy'
+p997
+V0.301027
+p998
+tp999
+a(S'Federal Office'
+p1000
+V0.298495
+p1001
+tp1002
+a(S'Criminal Investigation'
+p1003
+V0.298056
+p1004
+tp1005
+a(S'planned attacks'
+p1006
+V0.286196
+p1007
+tp1008
+a(S'bombs'
+p1009
+V0.278706
+p1010
+tp1011
+a(S'Michael Stein'
+p1012
+V0.26519
+p1013
+tp1014
+a(S'security threat'
+p1015
+V0.259939
+p1016
+tp1017
+aa(lp1018
+(S'Latino robbery suspect'
+p1019
+V0.934995
+p1020
+tp1021
+a(S'Seattle Post-Intelligencer article'
+p1022
+V0.88302
+p1023
+tp1024
+a(S'Native American woodcarver'
+p1025
+V0.877888
+p1026
+tp1027
+a(S'Seattle Police Chief'
+p1028
+V0.857719
+p1029
+tp1030
+a(S'African American girl'
+p1031
+V0.856209
+p1032
+tp1033
+a(S'modern-day superhero Phoenix'
+p1034
+V0.836102
+p1035
+tp1036
+a(S'good working relationship.'
+p1037
+V0.829601
+p1038
+tp1039
+a(S'stereotypical ways'
+p1040
+V0.728523
+p1041
+tp1042
+a(S'DOJ investigation'
+p1043
+V0.707779
+p1044
+tp1045
+a(S'high-profile incidents'
+p1046
+V0.688919
+p1047
+tp1048
+a(S'Mexican piss'
+p1049
+V0.681077
+p1050
+tp1051
+a(S'excessive force'
+p1052
+V0.674851
+p1053
+tp1054
+a(S'Ashby Jones'
+p1055
+V0.670677
+p1056
+tp1057
+a(S'federal investigation'
+p1058
+V0.659991
+p1059
+tp1060
+a(S'Justice Department'
+p1061
+V0.659263
+p1062
+tp1063
+a(S'police violence'
+p1064
+V0.658278
+p1065
+tp1066
+a(S'possible pattern'
+p1067
+V0.657593
+p1068
+tp1069
+a(S'Seattle Times'
+p1070
+V0.652197
+p1071
+tp1072
+a(S'John Diaz'
+p1073
+V0.650765
+p1074
+tp1075
+a(S'first-hand experience'
+p1076
+V0.644995
+p1077
+tp1078
+a(S'mean streets'
+p1079
+V0.640478
+p1080
+tp1081
+a(S'lighter note'
+p1082
+V0.640476
+p1083
+tp1084
+a(S'LA Times'
+p1085
+V0.639459
+p1086
+tp1087
+a(S'free audit.'
+p1088
+V0.639321
+p1089
+tp1090
+a(S'black-and-gold costume'
+p1091
+V0.627218
+p1092
+tp1093
+a(S'drug dealers'
+p1094
+V0.625944
+p1095
+tp1096
+a(S'Phoenix Jones'
+p1097
+V0.620819
+p1098
+tp1099
+a(S'miscreants'
+p1100
+V0.469522
+p1101
+tp1102
+a(S'SPD'
+p1103
+V0.468386
+p1104
+tp1105
+a(S'Patagonia'
+p1106
+V0.45519
+p1107
+tp1108
+a(S'minorities'
+p1109
+V0.453895
+p1110
+tp1111
+a(S'arrest'
+p1112
+V0.453006
+p1113
+tp1114
+a(S'superheroes'
+p1115
+V0.452735
+p1116
+tp1117
+a(S'knife'
+p1118
+V0.445514
+p1119
+tp1120
+a(S'detective'
+p1121
+V0.445278
+p1122
+tp1123
+a(S'news'
+p1124
+V0.444023
+p1125
+tp1126
+a(S'brush'
+p1127
+V0.44271
+p1128
+tp1129
+a(S'issue'
+p1130
+V0.442549
+p1131
+tp1132
+a(S'friend'
+p1133
+V0.441012
+p1134
+tp1135
+a(S'story'
+p1136
+V0.438792
+p1137
+tp1138
+aa(lp1139
+(S'Abu Sisi'
+p1140
+V0.921912
+p1141
+tp1142
+a(S'Dirar Abu Sisi'
+p1143
+V0.749225
+p1144
+tp1145
+a(S'Israeli Prime Minister'
+p1146
+V0.745035
+p1147
+tp1148
+a(S'Israeli intelligence service'
+p1149
+V0.735706
+p1150
+tp1151
+a(S'Israeli Haaretz newspaper'
+p1152
+V0.726044
+p1153
+tp1154
+a(S'Israeli Defense Forces'
+p1155
+V0.713603
+p1156
+tp1157
+a(S'Palestinian engineer'
+p1158
+V0.700921
+p1159
+tp1160
+a(S'detained Palestinian engineer'
+p1161
+V0.684123
+p1162
+tp1163
+a(S'Ukrainian wife Veronika'
+p1164
+V0.68226
+p1165
+tp1166
+a(S'abducted IDF soldier'
+p1167
+V0.661677
+p1168
+tp1169
+a(S'Ukrainian military uniform'
+p1170
+V0.658375
+p1171
+tp1172
+a(S'human rights'
+p1173
+V0.654588
+p1174
+tp1175
+a(S'special services officers'
+p1176
+V0.648079
+p1177
+tp1178
+a(S'Itar-Tass news agency'
+p1179
+V0.643351
+p1180
+tp1181
+a(S'human rights activists'
+p1182
+V0.639749
+p1183
+tp1184
+a(S'Israeli court'
+p1185
+V0.639003
+p1186
+tp1187
+a(S'Israel Army radio'
+p1188
+V0.632871
+p1189
+tp1190
+a(S'Israeli prison'
+p1191
+V0.631676
+p1192
+tp1193
+a(S'Israeli authorities'
+p1194
+V0.630748
+p1195
+tp1196
+a(S'Hamas terrorist cell'
+p1197
+V0.623646
+p1198
+tp1199
+a(S'prime minister Netanyahu'
+p1200
+V0.622661
+p1201
+tp1202
+a(S'Israeli media'
+p1203
+V0.621989
+p1204
+tp1205
+a(S'intimate internal information'
+p1206
+V0.612816
+p1207
+tp1208
+a(S'international wanted list'
+p1209
+V0.612248
+p1210
+tp1211
+a(S'Israeli counterparts'
+p1212
+V0.606327
+p1213
+tp1214
+a(S'Ukrainian city'
+p1215
+V0.581431
+p1216
+tp1217
+a(S'Ukrainian officials'
+p1218
+V0.564039
+p1219
+tp1220
+a(S'Gilad Shalit'
+p1221
+V0.561303
+p1222
+tp1223
+a(S'Palestinian Center'
+p1224
+V0.558245
+p1225
+tp1226
+a(S'Mossad\xe2\x80\x99s involvement'
+p1227
+V0.557713
+p1228
+tp1229
+a(S'Ukrainian intelligence'
+p1230
+V0.5513
+p1231
+tp1232
+a(S'Noam Shalit'
+p1233
+V0.545746
+p1234
+tp1235
+a(S'Ukrainian side claims'
+p1236
+V0.545247
+p1237
+tp1238
+a(S'Gilad Schalit'
+p1239
+V0.543493
+p1240
+tp1241
+a(S'Hamas member'
+p1242
+V0.536518
+p1243
+tp1244
+a(S'Ukraine\xe2\x80\x99s Kyiv'
+p1245
+V0.53298
+p1246
+tp1247
+a(S'mysterious events'
+p1248
+V0.531657
+p1249
+tp1250
+a(S'valuable information.'
+p1251
+V0.531168
+p1252
+tp1253
+a(S'drastic actions'
+p1254
+V0.52886
+p1255
+tp1256
+a(S'Benjamin Netanyahu'
+p1257
+V0.528302
+p1258
+tp1259
+a(S'High Commission'
+p1260
+V0.528096
+p1261
+tp1262
+a(S'Ehud Barak'
+p1263
+V0.528061
+p1264
+tp1265
+a(S'unfolding story'
+p1266
+V0.52722
+p1267
+tp1268
+a(S'pressure Hamas'
+p1269
+V0.526898
+p1270
+tp1271
+a(S'current whereabouts'
+p1272
+V0.525492
+p1273
+tp1274
+a(S'Gaza-based NGO'
+p1275
+V0.524696
+p1276
+tp1277
+a(S'defense minister'
+p1278
+V0.524389
+p1279
+tp1280
+a(S'possible connection'
+p1281
+V0.522501
+p1282
+tp1283
+a(S'democratic country'
+p1284
+V0.52195
+p1285
+tp1286
+a(S'Interior Minister'
+p1287
+V0.52099
+p1288
+tp1289
+aa(lp1290
+(S'Glover'
+p1291
+V0.999852
+p1292
+tp1293
+a(S'civil rights'
+p1294
+V0.965522
+p1295
+tp1296
+a(S'Henry Glover'
+p1297
+V0.834665
+p1298
+tp1299
+a(S'civilian Henry Glover'
+p1300
+V0.818716
+p1301
+tp1302
+a(S'current nopd officer'
+p1303
+V0.741122
+p1304
+tp1305
+a(S'courageous Glover family'
+p1306
+V0.711752
+p1307
+tp1308
+a(S'civil rights violations'
+p1309
+V0.686894
+p1310
+tp1311
+a(S'New Orleans'
+p1312
+V0.677778
+p1313
+tp1314
+a(S'Mr. Glover'
+p1315
+V0.647483
+p1316
+tp1317
+a(S'Civil Rights Division'
+p1318
+V0.62338
+p1319
+tp1320
+a(S'Officer Greg McRae'
+p1321
+V0.591667
+p1322
+tp1323
+a(S'NOPD Officer McRae'
+p1324
+V0.569438
+p1325
+tp1326
+a(S'NOPD Officer Warren'
+p1327
+V0.540223
+p1328
+tp1329
+a(S'Officer David Warren'
+p1330
+V0.536904
+p1331
+tp1332
+a(S'New Orleans Police'
+p1333
+V0.515943
+p1334
+tp1335
+a(S'post-Katrina shooting death'
+p1336
+V0.510622
+p1337
+tp1338
+a(S'civil rights violation'
+p1339
+V0.51049
+p1340
+tp1341
+a(S'makeshift police station'
+p1342
+V0.465196
+p1343
+tp1344
+a(S'New Orleans Field'
+p1345
+V0.454922
+p1346
+tp1347
+a(S'Attorney Jared Fishman'
+p1348
+V0.44756
+p1349
+tp1350
+a(S'Thomas E. Perez'
+p1351
+V0.446788
+p1352
+tp1353
+a(S'FBI Special Agent'
+p1354
+V0.446738
+p1355
+tp1356
+a(S'Assistant Attorney General'
+p1357
+V0.443895
+p1358
+tp1359
+a(S'U.S. Attorneys Tracey'
+p1360
+V0.44105
+p1361
+tp1362
+a(S'Eastern District'
+p1363
+V0.429078
+p1364
+tp1365
+a(S'subsequent burning'
+p1366
+V0.384007
+p1367
+tp1368
+a(S'restitution order'
+p1369
+V0.366754
+p1370
+tp1371
+a(S'William Tanner'
+p1372
+V0.347876
+p1373
+tp1374
+a(S'family members'
+p1375
+V0.347487
+p1376
+tp1377
+a(S'funeral expenses'
+p1378
+V0.347138
+p1379
+tp1380
+a(S'supervised release'
+p1381
+V0.346661
+p1382
+tp1383
+a(S'federal jury'
+p1384
+V0.344933
+p1385
+tp1386
+a(S'Justice Department'
+p1387
+V0.343167
+p1388
+tp1389
+a(S'Michael Magner'
+p1390
+V0.342798
+p1391
+tp1392
+a(S'police officers'
+p1393
+V0.341828
+p1394
+tp1395
+a(S'floor lookout'
+p1396
+V0.341135
+p1397
+tp1398
+a(S'Good Samaritan'
+p1399
+V0.34007
+p1400
+tp1401
+a(S'traffic flare'
+p1402
+V0.337105
+p1403
+tp1404
+a(S'public trust'
+p1405
+V0.33431
+p1406
+tp1407
+a(S'medical attention'
+p1408
+V0.333923
+p1409
+tp1410
+a(S'David Welker'
+p1411
+V0.330579
+p1412
+tp1413
+a(S'sacred responsibilities'
+p1414
+V0.328724
+p1415
+tp1416
+a(S'Jim Letten'
+p1417
+V0.328267
+p1418
+tp1419
+a(S'important step'
+p1420
+V0.327953
+p1421
+tp1422
+a(S'powerful message'
+p1423
+V0.325934
+p1424
+tp1425
+a(S'entire city'
+p1426
+V0.325217
+p1427
+tp1428
+a(S'car'
+p1429
+V0.309265
+p1430
+tp1431
+a(S'law'
+p1432
+V0.255898
+p1433
+tp1434
+a(S'Louisiana'
+p1435
+V0.254466
+p1436
+tp1437
+a(S'prison'
+p1438
+V0.248227
+p1439
+tp1440
+aa(lp1441
+(S'lace'
+p1442
+V0.99973
+p1443
+tp1444
+a(S'Sophie Hallette lace'
+p1445
+V0.828172
+p1446
+tp1447
+a(S'French lace'
+p1448
+V0.728786
+p1449
+tp1450
+a(S'Chinese lace'
+p1451
+V0.721501
+p1452
+tp1453
+a(S'lace industry'
+p1454
+V0.715699
+p1455
+tp1456
+a(S'French lace industry'
+p1457
+V0.694849
+p1458
+tp1459
+a(S'couture lace industry'
+p1460
+V0.694054
+p1461
+tp1462
+a(S'handmade lace'
+p1463
+V0.69238
+p1464
+tp1465
+a(S'high-end lace industry'
+p1466
+V0.68715
+p1467
+tp1468
+a(S'18th-century handmade lace'
+p1469
+V0.679379
+p1470
+tp1471
+a(S'ET Lace'
+p1472
+V0.677815
+p1473
+tp1474
+a(S'Los Angeles-based lace'
+p1475
+V0.674697
+p1476
+tp1477
+a(S'French lace makers'
+p1478
+V0.671883
+p1479
+tp1480
+a(S'Chantilly lace'
+p1481
+V0.668962
+p1482
+tp1483
+a(S'cheaper Chinese lace'
+p1484
+V0.662717
+p1485
+tp1486
+a(S'lavish lace'
+p1487
+V0.654689
+p1488
+tp1489
+a(S'Marescot lace brand'
+p1490
+V0.653967
+p1491
+tp1492
+a(S'English lace'
+p1493
+V0.653127
+p1494
+tp1495
+a(S'European couture lace'
+p1496
+V0.652872
+p1497
+tp1498
+a(S'hoop-shaped lace skirt'
+p1499
+V0.650391
+p1500
+tp1501
+a(S'machine lace'
+p1502
+V0.646286
+p1503
+tp1504
+a(S'New lace patterns'
+p1505
+V0.646133
+p1506
+tp1507
+a(S'mass-market lace'
+p1508
+V0.645667
+p1509
+tp1510
+a(S'Victorian Lace'
+p1511
+V0.64198
+p1512
+tp1513
+a(S'lace trims'
+p1514
+V0.618071
+p1515
+tp1516
+a(S'Sophie Hallette factory'
+p1517
+V0.589121
+p1518
+tp1519
+a(S'Ms. Lescroart'
+p1520
+V0.56536
+p1521
+tp1522
+a(S'companies Sophie Hallette'
+p1523
+V0.541489
+p1524
+tp1525
+a(S'Christina Binkley/The Wall'
+p1526
+V0.521397
+p1527
+tp1528
+a(S'Binkley/The Wall Street'
+p1529
+V0.519482
+p1530
+tp1531
+a(S'Wall Street Journal'
+p1532
+V0.519473
+p1533
+tp1534
+a(S'Hallette factory supplies'
+p1535
+V0.517996
+p1536
+tp1537
+a(S'Christina Binkley reports'
+p1538
+V0.49293
+p1539
+tp1540
+a(S'Christina Binkley Updated'
+p1541
+V0.492763
+p1542
+tp1543
+a(S'small French town'
+p1544
+V0.486678
+p1545
+tp1546
+a(S'new Leavers machines'
+p1547
+V0.48594
+p1548
+tp1549
+a(S'huge Prada order'
+p1550
+V0.475483
+p1551
+tp1552
+a(S'heavy Swiss-made lace\xe2\x80\x94a'
+p1553
+V0.472324
+p1554
+tp1555
+a(S'stinky Maroilles cheese'
+p1556
+V0.469016
+p1557
+tp1558
+a(S'Bienvenue Chez Les'
+p1559
+V0.468869
+p1560
+tp1561
+a(S'Jean Paul Gaultier'
+p1562
+V0.468581
+p1563
+tp1564
+a(S'entirely different technique'
+p1565
+V0.468564
+p1566
+tp1567
+a(S'expensive lace\xe2\x80\x94in fact'
+p1568
+V0.467424
+p1569
+tp1570
+a(S'Paris fabric trade'
+p1571
+V0.467343
+p1572
+tp1573
+a(S'financial crisis'
+p1574
+V0.466329
+p1575
+tp1576
+a(S'tulle loom'
+p1577
+V0.465787
+p1578
+tp1579
+a(S'Jerry Lee Lewis'
+p1580
+V0.465439
+p1581
+tp1582
+a(S'Maud Lescroart'
+p1583
+V0.465146
+p1584
+tp1585
+a(S'average wholesale price'
+p1586
+V0.465083
+p1587
+tp1588
+a(S'midpriced Theia line'
+p1589
+V0.464998
+p1590
+tp1591
+aa(lp1592
+(S'Kate Moss'
+p1593
+V0.928693
+p1594
+tp1595
+a(S'Alexander McQueen'
+p1596
+V0.768273
+p1597
+tp1598
+a(S'Kate Moss models'
+p1599
+V0.734311
+p1600
+tp1601
+a(S'friend Alexander McQueen'
+p1602
+V0.682134
+p1603
+tp1604
+a(S'white McQueen creation'
+p1605
+V0.629099
+p1606
+tp1607
+a(S'Lee McQueen'
+p1608
+V0.625237
+p1609
+tp1610
+a(S'late Lee McQueen'
+p1611
+V0.624252
+p1612
+tp1613
+a(S'late designer'
+p1614
+V0.611353
+p1615
+tp1616
+a(S'new issue'
+p1617
+V0.57171
+p1618
+tp1619
+a(S'new magazine shoot'
+p1620
+V0.483922
+p1621
+tp1622
+a(S'Sarah Burton dress'
+p1623
+V0.481104
+p1624
+tp1625
+a(S'Mail Reporter Updated'
+p1626
+V0.475505
+p1627
+tp1628
+a(S'gave women power'
+p1629
+V0.474822
+p1630
+tp1631
+a(S'Daily Mail'
+p1632
+V0.472506
+p1633
+tp1634
+a(S'Kate Halfpenny'
+p1635
+V0.458944
+p1636
+tp1637
+a(S'hologram dress'
+p1638
+V0.45809
+p1639
+tp1640
+a(S'head designer Sarah'
+p1641
+V0.453238
+p1642
+tp1643
+a(S'friend John Galliano'
+p1644
+V0.448178
+p1645
+tp1646
+a(S'flagship Longchamp store'
+p1647
+V0.446931
+p1648
+tp1649
+a(S'Hong Kong'
+p1650
+V0.442766
+p1651
+tp1652
+a(S'alleged anti-Semitic outburst'
+p1653
+V0.440355
+p1654
+tp1655
+a(S'Longchamp flagship store'
+p1656
+V0.438246
+p1657
+tp1658
+a(S'35th birthday party'
+p1659
+V0.426527
+p1660
+tp1661
+a(S'Daily Mail showbusiness'
+p1662
+V0.425378
+p1663
+tp1664
+a(S'Miss Moss'
+p1665
+V0.409391
+p1666
+tp1667
+a(S'Paris A hologram'
+p1668
+V0.408325
+p1669
+tp1670
+a(S'organza dress'
+p1671
+V0.398968
+p1672
+tp1673
+a(S'Bazaar First time'
+p1674
+V0.384889
+p1675
+tp1676
+a(S'Bazaar magazine'
+p1677
+V0.37467
+p1678
+tp1679
+a(S'black dress'
+p1680
+V0.370447
+p1681
+tp1682
+a(S'Harper\xe2\x80\x99s Bazaar'
+p1683
+V0.369955
+p1684
+tp1685
+a(S'Bazaar UK'
+p1686
+V0.365005
+p1687
+tp1688
+a(S'bridal\xc2\xa0 dress'
+p1689
+V0.359508
+p1690
+tp1691
+a(S'ghostly apparition'
+p1692
+V0.356512
+p1693
+tp1694
+a(S'tribute'
+p1695
+V0.35405
+p1696
+tp1697
+a(S'wedding gown'
+p1698
+V0.351629
+p1699
+tp1700
+a(S'37-year-old poses'
+p1701
+V0.350322
+p1702
+tp1703
+a(S'Paris Fashion'
+p1704
+V0.350251
+p1705
+tp1706
+a(S'dear friend'
+p1707
+V0.350106
+p1708
+tp1709
+a(S'vintage gown'
+p1710
+V0.349663
+p1711
+tp1712
+a(S'best way'
+p1713
+V0.348933
+p1714
+tp1715
+a(S'iconic creations'
+p1716
+V0.348205
+p1717
+tp1718
+a(S'hear Lee'
+p1719
+V0.346593
+p1720
+tp1721
+a(S'New York'
+p1722
+V0.344896
+p1723
+tp1724
+a(S'Anna Wintour'
+p1725
+V0.344093
+p1726
+tp1727
+a(S'cocaine scandal'
+p1728
+V0.341701
+p1729
+tp1730
+a(S'McQueen. \xe2\x80\x98It'
+p1731
+V0.338774
+p1732
+tp1733
+a(S'best laughs'
+p1734
+V0.338049
+p1735
+tp1736
+aa(lp1737
+(S'Jean Paul Gaultier'
+p1738
+V0.980791
+p1739
+tp1740
+a(S'Bob Carlos Clarke'
+p1741
+V0.889339
+p1742
+tp1743
+a(S'early fashion sketches'
+p1744
+V0.847869
+p1745
+tp1746
+a(S'FS'
+p1747
+V0.846234
+p1748
+tp1749
+a(S'latest fashion news'
+p1750
+V0.844454
+p1751
+tp1752
+a(S'New Look'
+p1753
+V0.840574
+p1754
+tp1755
+a(S'twisted real-life version'
+p1756
+V0.838593
+p1757
+tp1758
+a(S'Vintage fashion fans'
+p1759
+V0.836436
+p1760
+tp1761
+a(S'celebrity fashion donations'
+p1762
+V0.836382
+p1763
+tp1764
+a(S'new maxi lengths'
+p1765
+V0.834584
+p1766
+tp1767
+a(S'dress/ PR Colour'
+p1768
+V0.834376
+p1769
+tp1770
+a(S'fashion team Marvel'
+p1771
+V0.832356
+p1772
+tp1773
+a(S'Dorothy Perkins'
+p1774
+V0.831822
+p1775
+tp1776
+a(S'paper pointy bosom'
+p1777
+V0.830949
+p1778
+tp1779
+a(S'quick Twitter inquiry'
+p1780
+V0.830506
+p1781
+tp1782
+a(S'version visit vogue.co.uk'
+p1783
+V0.827001
+p1784
+tp1785
+a(S'Asos suede ones'
+p1786
+V0.826113
+p1787
+tp1788
+a(S'augmented teddy bear'
+p1789
+V0.822448
+p1790
+tp1791
+a(S'yellow patent slingbacks'
+p1792
+V0.821666
+p1793
+tp1794
+a(S'blue skinny belt'
+p1795
+V0.821571
+p1796
+tp1797
+a(S'bold red dress'
+p1798
+V0.82098
+p1799
+tp1800
+a(S'director Peter Hall'
+p1801
+V0.819609
+p1802
+tp1803
+a(S'Tammie Arroyo/Gregg Deguire/UK'
+p1804
+V0.819257
+p1805
+tp1806
+a(S'Mike Coppola/Getty Images'
+p1807
+V0.818883
+p1808
+tp1809
+a(S'Oxfam Curiosity Shop'
+p1810
+V0.818131
+p1811
+tp1812
+a(S'opera singer Maria'
+p1813
+V0.817743
+p1814
+tp1815
+a(S'actress Rebecca Hall'
+p1816
+V0.816652
+p1817
+tp1818
+a(S'celebrity stylish sessions'
+p1819
+V0.81632
+p1820
+tp1821
+a(S'long-sleeved demure cut'
+p1822
+V0.816313
+p1823
+tp1824
+a(S'inexplicably body-shortening dress'
+p1825
+V0.816278
+p1826
+tp1827
+a(S'Le Comte Ory'
+p1828
+V0.816235
+p1829
+tp1830
+a(S'oxfam.org.uk Gorgeous florals'
+p1831
+V0.814481
+p1832
+tp1833
+a(S'organic clothing company'
+p1834
+V0.81377
+p1835
+tp1836
+a(S'Harvey Nichols'
+p1837
+V0.812699
+p1838
+tp1839
+a(S'shoe company TOMS'
+p1840
+V0.81217
+p1841
+tp1842
+a(S'visible Spanx'
+p1843
+V0.810263
+p1844
+tp1845
+a(S'brief Google image'
+p1846
+V0.809892
+p1847
+tp1848
+a(S'Little Black Gallery'
+p1849
+V0.809444
+p1850
+tp1851
+a(S'edition organic T-shirts'
+p1852
+V0.8079
+p1853
+tp1854
+a(S'Fashion World'
+p1855
+V0.806147
+p1856
+tp1857
+a(S'Carlos Clarke collaboration'
+p1858
+V0.80471
+p1859
+tp1860
+a(S'photographer Bob Carlos'
+p1861
+V0.8042
+p1862
+tp1863
+a(S'new exhibition'
+p1864
+V0.794972
+p1865
+tp1866
+a(S'fashion version'
+p1867
+V0.793213
+p1868
+tp1869
+a(S'FASHION GRAVEYARD'
+p1870
+V0.784714
+p1871
+tp1872
+a(S'bold colour'
+p1873
+V0.778899
+p1874
+tp1875
+a(S'new lengths'
+p1876
+V0.778169
+p1877
+tp1878
+a(S'wonderful world'
+p1879
+V0.778107
+p1880
+tp1881
+a(S'patent-pending Weirdar'
+p1882
+V0.777536
+p1883
+tp1884
+aa(lp1885
+(S'specially-designed heavier gauge'
+p1886
+V0.921913
+p1887
+tp1888
+a(S'swimwear buyer Sasha'
+p1889
+V0.918968
+p1890
+tp1891
+a(S'Spanx control tights'
+p1892
+V0.884697
+p1893
+tp1894
+a(S'new swimsuit'
+p1895
+V0.808879
+p1896
+tp1897
+a(S'perfect solution'
+p1898
+V0.70266
+p1899
+tp1900
+a(S'lumpy bits'
+p1901
+V0.698924
+p1902
+tp1903
+a(S'less-than-perfect figures'
+p1904
+V0.694472
+p1905
+tp1906
+a(S'Low-rise legs'
+p1907
+V0.689438
+p1908
+tp1909
+a(S'instant weight-loss'
+p1910
+V0.682215
+p1911
+tp1912
+a(S'slinky micro-fibre'
+p1913
+V0.679868
+p1914
+tp1915
+a(S'outer layer'
+p1916
+V0.672442
+p1917
+tp1918
+a(S'waist panel'
+p1919
+V0.670619
+p1920
+tp1921
+a(S'good bits'
+p1922
+V0.668647
+p1923
+tp1924
+a(S'British women'
+p1925
+V0.668242
+p1926
+tp1927
+a(S'perfect fit'
+p1928
+V0.657894
+p1929
+tp1930
+a(S'Daily Express'
+p1931
+V0.654232
+p1932
+tp1933
+a(S'miracle work'
+p1934
+V0.654035
+p1935
+tp1936
+a(S'cup fitting'
+p1937
+V0.654021
+p1938
+tp1939
+a(S'smooth curve'
+p1940
+V0.653662
+p1941
+tp1942
+a(S'Extra strength'
+p1943
+V0.647492
+p1944
+tp1945
+a(S'control panel'
+p1946
+V0.643067
+p1947
+tp1948
+a(S'similar way'
+p1949
+V0.635175
+p1950
+tp1951
+a(S'slimsuit'
+p1952
+V0.497431
+p1953
+tp1954
+a(S'diet'
+p1955
+V0.489521
+p1956
+tp1957
+a(S'Debenhams'
+p1958
+V0.487017
+p1959
+tp1960
+a(S'lumps'
+p1961
+V0.476719
+p1962
+tp1963
+a(S'bumps'
+p1964
+V0.471084
+p1965
+tp1966
+a(S'bikinis'
+p1967
+V0.470499
+p1968
+tp1969
+a(S'cent'
+p1970
+V0.461064
+p1971
+tp1972
+a(S'bra'
+p1973
+V0.456212
+p1974
+tp1975
+a(S'tummy'
+p1976
+V0.4552
+p1977
+tp1978
+a(S'bust'
+p1979
+V0.454827
+p1980
+tp1981
+a(S'lingerie'
+p1982
+V0.450636
+p1983
+tp1984
+a(S'illusion'
+p1985
+V0.450396
+p1986
+tp1987
+a(S'Posted'
+p1988
+V0.450007
+p1989
+tp1990
+a(S'Agencies'
+p1991
+V0.449251
+p1992
+tp1993
+a(S'swimwears'
+p1994
+V0.448928
+p1995
+tp1996
+a(S'fear'
+p1997
+V0.446949
+p1998
+tp1999
+a(S'attempt'
+p2000
+V0.446109
+p2001
+tp2002
+a(S'beach'
+p2003
+V0.445555
+p2004
+tp2005
+a(S'costumes'
+p2006
+V0.445306
+p2007
+tp2008
+a(S'dress'
+p2009
+V0.444402
+p2010
+tp2011
+a(S'body'
+p2012
+V0.443518
+p2013
+tp2014
+a(S'poll'
+p2015
+V0.442891
+p2016
+tp2017
+a(S'data'
+p2018
+V0.442795
+p2019
+tp2020
+a(S'cling-film'
+p2021
+V0.442361
+p2022
+tp2023
+a(S'Nagalingham'
+p2024
+V0.44217
+p2025
+tp2026
+a(S'half'
+p2027
+V0.44171
+p2028
+tp2029
+a(S'fabric'
+p2030
+V0.441475
+p2031
+tp2032
+aa(lp2033
+(S'hepatitis C. Hustler'
+p2034
+V0.926492
+p2035
+tp2036
+a(S'Hustler Video'
+p2037
+V0.841632
+p2038
+tp2039
+a(S'protective equipment'
+p2040
+V0.764708
+p2041
+tp2042
+a(S'California workplace safety'
+p2043
+V0.752888
+p2044
+tp2045
+a(S'Hustler representative'
+p2046
+V0.750895
+p2047
+tp2048
+a(S'personal protective equipment'
+p2049
+V0.743943
+p2050
+tp2051
+a(S'Associated Press'
+p2052
+V0.732504
+p2053
+tp2054
+a(S'Cal/OSHA Senior Safety'
+p2055
+V0.717678
+p2056
+tp2057
+a(S'multibillion-dollar adult entertainment'
+p2058
+V0.711393
+p2059
+tp2060
+a(S'AIDS Healthcare Foundation'
+p2061
+V0.707192
+p2062
+tp2063
+a(S'unprotected sexual contact'
+p2064
+V0.703694
+p2065
+tp2066
+a(S'Fernando Valley pornographers'
+p2067
+V0.701278
+p2068
+tp2069
+a(S'Engineer Deborah Gold'
+p2070
+V0.692044
+p2071
+tp2072
+a(S'current fines'
+p2073
+V0.688424
+p2074
+tp2075
+a(S'porn producer'
+p2076
+V0.672443
+p2077
+tp2078
+a(S'condoms'
+p2079
+V0.646645
+p2080
+tp2081
+a(S'Health citation'
+p2082
+V0.634712
+p2083
+tp2084
+a(S'Larry Flynt'
+p2085
+V0.630184
+p2086
+tp2087
+a(S'porn industry'
+p2088
+V0.628243
+p2089
+tp2090
+a(S'porn actor'
+p2091
+V0.626519
+p2092
+tp2093
+a(S'similar violations'
+p2094
+V0.606425
+p2095
+tp2096
+a(S'LOS ANGELES'
+p2097
+V0.592857
+p2098
+tp2099
+a(S'protective gear'
+p2100
+V0.591336
+p2101
+tp2102
+a(S'Occupational Safety'
+p2103
+V0.586542
+p2104
+tp2105
+a(S'sex performers'
+p2106
+V0.585587
+p2107
+tp2108
+a(S'vaginal excretions'
+p2109
+V0.581505
+p2110
+tp2111
+a(S'adult videos'
+p2112
+V0.575587
+p2113
+tp2114
+a(S'state law'
+p2115
+V0.573446
+p2116
+tp2117
+a(S'fluid-borne illnesses'
+p2118
+V0.570645
+p2119
+tp2120
+a(S'jobs site'
+p2121
+V0.567399
+p2122
+tp2123
+a(S'safe sex'
+p2124
+V0.566298
+p2125
+tp2126
+a(S'illness policies'
+p2127
+V0.563699
+p2128
+tp2129
+a(S'job sites'
+p2130
+V0.560932
+p2131
+tp2132
+a(S'California clinic'
+p2133
+V0.559278
+p2134
+tp2135
+a(S'engineering control'
+p2136
+V0.557864
+p2137
+tp2138
+a(S'telephone message'
+p2139
+V0.55565
+p2140
+tp2141
+a(S'Contact information'
+p2142
+V0.555147
+p2143
+tp2144
+a(S'exposure'
+p2145
+V0.464776
+p2146
+tp2147
+a(S'Forsaken'
+p2148
+V0.451303
+p2149
+tp2150
+a(S'actors'
+p2151
+V0.45055
+p2152
+tp2153
+a(S'precaution'
+p2154
+V0.444079
+p2155
+tp2156
+a(S'condom'
+p2157
+V0.433706
+p2158
+tp2159
+a(S'handful'
+p2160
+V0.431981
+p2161
+tp2162
+a(S'issue'
+p2163
+V0.430974
+p2164
+tp2165
+a(S'Hustler.'
+p2166
+V0.430957
+p2167
+tp2168
+a(S'disease'
+p2169
+V0.430665
+p2170
+tp2171
+a(S'Division'
+p2172
+V0.43024
+p2173
+tp2174
+a(S'complaint'
+p2175
+V0.429426
+p2176
+tp2177
+a(S'vaccines'
+p2178
+V0.428776
+p2179
+tp2180
+a(S'employees'
+p2181
+V0.428256
+p2182
+tp2183
+aa(lp2184
+(S'Shamu Stadium'
+p2185
+V0.932551
+p2186
+tp2187
+a(S'big crowd pleasure'
+p2188
+V0.735128
+p2189
+tp2190
+a(S'stash fragile items'
+p2191
+V0.719182
+p2192
+tp2193
+a(S'good seat choice'
+p2194
+V0.714893
+p2195
+tp2196
+a(S'orca Tilikum'
+p2197
+V0.631211
+p2198
+tp2199
+a(S'soak section'
+p2200
+V0.596158
+p2201
+tp2202
+a(S'crowd pleaser'
+p2203
+V0.579146
+p2204
+tp2205
+a(S'soak zone'
+p2206
+V0.559901
+p2207
+tp2208
+a(S'new orca'
+p2209
+V0.552247
+p2210
+tp2211
+a(S'sheer size'
+p2212
+V0.538304
+p2213
+tp2214
+a(S'quick pitstop'
+p2215
+V0.50948
+p2216
+tp2217
+a(S'refreshment stands'
+p2218
+V0.50797
+p2219
+tp2220
+a(S'big guy'
+p2221
+V0.507927
+p2222
+tp2223
+a(S'multiple entrances'
+p2224
+V0.49949
+p2225
+tp2226
+a(S'Ride Atlantis'
+p2227
+V0.477212
+p2228
+tp2229
+a(S'water ride'
+p2230
+V0.475236
+p2231
+tp2232
+a(S'cell phone'
+p2233
+V0.46875
+p2234
+tp2235
+a(S'massive pack'
+p2236
+V0.468544
+p2237
+tp2238
+a(S'plastic bags'
+p2239
+V0.468541
+p2240
+tp2241
+a(S'return performance'
+p2242
+V0.464761
+p2243
+tp2244
+a(S'nice chat'
+p2245
+V0.456228
+p2246
+tp2247
+a(S'people'
+p2248
+V0.404755
+p2249
+tp2250
+a(S'SeaWorld'
+p2251
+V0.382319
+p2252
+tp2253
+a(S'crowds'
+p2254
+V0.360655
+p2255
+tp2256
+a(S'click'
+p2257
+V0.347822
+p2258
+tp2259
+a(S'park'
+p2260
+V0.302156
+p2261
+tp2262
+a(S'end'
+p2263
+V0.297194
+p2264
+tp2265
+a(S'munchies'
+p2266
+V0.27903
+p2267
+tp2268
+a(S'absence'
+p2269
+V0.270409
+p2270
+tp2271
+a(S'poncho'
+p2272
+V0.266997
+p2273
+tp2274
+a(S'chants'
+p2275
+V0.266345
+p2276
+tp2277
+a(S'exits'
+p2278
+V0.264411
+p2279
+tp2280
+a(S'restrooms'
+p2281
+V0.262736
+p2282
+tp2283
+a(S'souvenirs'
+p2284
+V0.260246
+p2285
+tp2286
+a(S'doubt'
+p2287
+V0.258406
+p2288
+tp2289
+a(S'Twitter'
+p2290
+V0.255958
+p2291
+tp2292
+a(S'danger'
+p2293
+V0.255014
+p2294
+tp2295
+a(S'time'
+p2296
+V0.253268
+p2297
+tp2298
+a(S'drinks'
+p2299
+V0.253205
+p2300
+tp2301
+a(S'Ocean'
+p2302
+V0.252909
+p2303
+tp2304
+a(S'tips'
+p2305
+V0.252627
+p2306
+tp2307
+a(S'content'
+p2308
+V0.24984
+p2309
+tp2310
+a(S'capacity'
+p2311
+V0.248999
+p2312
+tp2313
+a(S'clothes'
+p2314
+V0.247624
+p2315
+tp2316
+a(S'bit'
+p2317
+V0.247302
+p2318
+tp2319
+aa(lp2320
+(S'health care'
+p2321
+V0.952983
+p2322
+tp2323
+a(S'Fidelity'
+p2324
+V0.677561
+p2325
+tp2326
+a(S'health care costs'
+p2327
+V0.628197
+p2328
+tp2329
+a(S'health care expenses'
+p2330
+V0.616724
+p2331
+tp2332
+a(S'year-old health care'
+p2333
+V0.596105
+p2334
+tp2335
+a(S'factors driving expenses'
+p2336
+V0.586569
+p2337
+tp2338
+a(S'median drug expenses'
+p2339
+V0.58501
+p2340
+tp2341
+a(S'out-of-pocket prescription costs'
+p2342
+V0.584819
+p2343
+tp2344
+a(S'health care access'
+p2345
+V0.58379
+p2346
+tp2347
+a(S'health care services'
+p2348
+V0.579068
+p2349
+tp2350
+a(S'Medicare drug benefit'
+p2351
+V0.579027
+p2352
+tp2353
+a(S'financial services company'
+p2354
+V0.569981
+p2355
+tp2356
+a(S'annual increases'
+p2357
+V0.567275
+p2358
+tp2359
+a(S'Medicare beneficiaries'
+p2360
+V0.565083
+p2361
+tp2362
+a(S'health care law'
+p2363
+V0.564989
+p2364
+tp2365
+a(S'percent cost sharing'
+p2366
+V0.561477
+p2367
+tp2368
+a(S'Fidelity Investments'
+p2369
+V0.559077
+p2370
+tp2371
+a(S'prescription drugs'
+p2372
+V0.555242
+p2373
+tp2374
+a(S'percent chance'
+p2375
+V0.547672
+p2376
+tp2377
+a(S'coverage gap'
+p2378
+V0.545915
+p2379
+tp2380
+a(S'Fidelity\xe2\x80\x99s business'
+p2381
+V0.545335
+p2382
+tp2383
+a(S'new medical technologies'
+p2384
+V0.543404
+p2385
+tp2386
+a(S'design workplace benefits'
+p2387
+V0.542125
+p2388
+tp2389
+a(S'latest annual estimate'
+p2390
+V0.542004
+p2391
+tp2392
+a(S'costly prescription drugs'
+p2393
+V0.531258
+p2394
+tp2395
+a(S'catastrophic coverage kicks'
+p2396
+V0.526906
+p2397
+tp2398
+a(S'senior vice president'
+p2399
+V0.524086
+p2400
+tp2401
+a(S'Associated Press Writer'
+p2402
+V0.52184
+p2403
+tp2404
+a(S'out-of-pocket expenses'
+p2405
+V0.518309
+p2406
+tp2407
+a(S'Employee Benefit Research'
+p2408
+V0.517357
+p2409
+tp2410
+a(S'medical expenses'
+p2411
+V0.516663
+p2412
+tp2413
+a(S'65-year-old couple'
+p2414
+V0.484365
+p2415
+tp2416
+a(S'Medicare coverage'
+p2417
+V0.480008
+p2418
+tp2419
+a(S'new retirees'
+p2420
+V0.469732
+p2421
+tp2422
+a(S'EBRI\xe2\x80\x99s study'
+p2423
+V0.464082
+p2424
+tp2425
+a(S'average couple'
+p2426
+V0.453677
+p2427
+tp2428
+a(S'medical bills'
+p2429
+V0.450363
+p2430
+tp2431
+a(S'health research'
+p2432
+V0.444699
+p2433
+tp2434
+a(S'initial calculation'
+p2435
+V0.442785
+p2436
+tp2437
+a(S'estimate factors'
+p2438
+V0.442513
+p2439
+tp2440
+a(S'long-term care'
+p2441
+V0.43992
+p2442
+tp2443
+a(S'Sunit Patel'
+p2444
+V0.438971
+p2445
+tp2446
+a(S'life expectancy'
+p2447
+V0.434909
+p2448
+tp2449
+a(S'program\xe2\x80\x99s premiums'
+p2450
+V0.4349
+p2451
+tp2452
+a(S'President Obama'
+p2453
+V0.433028
+p2454
+tp2455
+a(S'\xe2\x80\x98doughnut hole'
+p2456
+V0.432863
+p2457
+tp2458
+a(S'doughnut hole'
+p2459
+V0.431593
+p2460
+tp2461
+a(S'medical needs'
+p2462
+V0.430569
+p2463
+tp2464
+a(S'new law'
+p2465
+V0.430099
+p2466
+tp2467
+a(S'diagnostic tests'
+p2468
+V0.428979
+p2469
+tp2470
+aa(lp2471
+(S'Nash'
+p2472
+V0.904671
+p2473
+tp2474
+a(S'Charla Nash'
+p2475
+V0.722035
+p2476
+tp2477
+a(S'Nash surgical team'
+p2478
+V0.614327
+p2479
+tp2480
+a(S'face transplant'
+p2481
+V0.605324
+p2482
+tp2483
+a(S'hand transplant'
+p2484
+V0.499506
+p2485
+tp2486
+a(S'traumatic power line'
+p2487
+V0.396821
+p2488
+tp2489
+a(S'Texas construction worker'
+p2490
+V0.396331
+p2491
+tp2492
+a(S'hospital officials'
+p2493
+V0.384982
+p2494
+tp2495
+a(S'similar skin color'
+p2496
+V0.371664
+p2497
+tp2498
+a(S'Dr. Bohdan Pomahac'
+p2499
+V0.368868
+p2500
+tp2501
+a(S'Headlines Examiner articles'
+p2502
+V0.34236
+p2503
+tp2504
+a(S'Daniel Wiens'
+p2505
+V0.339936
+p2506
+tp2507
+a(S'\xe2\x80\x99 surgery.'
+p2508
+V0.333738
+p2509
+tp2510
+a(S'simultaneous transplant'
+p2511
+V0.308158
+p2512
+tp2513
+a(S'face transplants'
+p2514
+V0.305388
+p2515
+tp2516
+a(S'200-pound chimpanzee'
+p2517
+V0.248208
+p2518
+tp2519
+a(S'brutal attack'
+p2520
+V0.243732
+p2521
+tp2522
+a(S'vicious rampage'
+p2523
+V0.24043
+p2524
+tp2525
+a(S'New Haven'
+p2526
+V0.239118
+p2527
+tp2528
+a(S'eligible donors'
+p2529
+V0.229114
+p2530
+tp2531
+a(S'scare people.'
+p2532
+V0.228455
+p2533
+tp2534
+a(S'Women\xe2\x80\x99s Hospital'
+p2535
+V0.226655
+p2536
+tp2537
+a(S'difficulty breathing'
+p2538
+V0.220475
+p2539
+tp2540
+a(S'Boston hospital'
+p2541
+V0.217782
+p2542
+tp2543
+a(S'Boston\xe2\x80\x99s Brigham'
+p2544
+V0.215578
+p2545
+tp2546
+a(S'blood type'
+p2547
+V0.202319
+p2548
+tp2549
+aa(lp2550
+(S'Officer George Wong'
+p2551
+V0.910456
+p2552
+tp2553
+a(S'medical examiner'
+p2554
+V0.782212
+p2555
+tp2556
+a(S'Antonelli/News Officer George'
+p2557
+V0.539016
+p2558
+tp2559
+a(S'Officer Bobby Heedles'
+p2560
+V0.494629
+p2561
+tp2562
+a(S'city medical examiner'
+p2563
+V0.475932
+p2564
+tp2565
+a(S'NYPD cop'
+p2566
+V0.343106
+p2567
+tp2568
+a(S'crimefighting pal'
+p2569
+V0.32586
+p2570
+tp2571
+a(S'Precinct stationhouse'
+p2572
+V0.320937
+p2573
+tp2574
+a(S'funeral home'
+p2575
+V0.319859
+p2576
+tp2577
+a(S'true warrior'
+p2578
+V0.304241
+p2579
+tp2580
+a(S'Daily News'
+p2581
+V0.30205
+p2582
+tp2583
+a(S'toxic exposure'
+p2584
+V0.296746
+p2585
+tp2586
+a(S'gastric cancer'
+p2587
+V0.292029
+p2588
+tp2589
+a(S'controversy'
+p2590
+V0.209857
+p2591
+tp2592
+aa(lp2593
+(S'death penalty'
+p2594
+V0.94752
+p2595
+tp2596
+a(S'Sheley'
+p2597
+V0.819718
+p2598
+tp2599
+a(S'Nicholas Sheley'
+p2600
+V0.794399
+p2601
+tp2602
+a(S'Knox County State'
+p2603
+V0.74647
+p2604
+tp2605
+a(S'local media reports'
+p2606
+V0.739851
+p2607
+tp2608
+a(S'Gov. Pat Quinn'
+p2609
+V0.73951
+p2610
+tp2611
+a(S'Jefferson County Prosecuting'
+p2612
+V0.737814
+p2613
+tp2614
+a(S'Illinois University Carbondale'
+p2615
+V0.718392
+p2616
+tp2617
+a(S'Attorney Forrest Wegge'
+p2618
+V0.717876
+p2619
+tp2620
+a(S'Madison County prosecutors'
+p2621
+V0.704093
+p2622
+tp2623
+a(S'William Schroeder'
+p2624
+V0.676727
+p2625
+tp2626
+a(S'Illinois prosecutor'
+p2627
+V0.642264
+p2628
+tp2629
+a(S'John Pepmeyer'
+p2630
+V0.631312
+p2631
+tp2632
+a(S'Jill Estes'
+p2633
+V0.625315
+p2634
+tp2635
+a(S'Ronald Randall'
+p2636
+V0.622721
+p2637
+tp2638
+a(S'legal process'
+p2639
+V0.61579
+p2640
+tp2641
+a(S'law professor'
+p2642
+V0.613752
+p2643
+tp2644
+a(S'punishment options'
+p2645
+V0.611731
+p2646
+tp2647
+a(S'Associated Press'
+p2648
+V0.609788
+p2649
+tp2650
+a(S'Christopher Coleman'
+p2651
+V0.609144
+p2652
+tp2653
+a(S'long time'
+p2654
+V0.609084
+p2655
+tp2656
+a(S'Missouri'
+p2657
+V0.573106
+p2658
+tp2659
+a(S'case'
+p2660
+V0.559003
+p2661
+tp2662
+a(S'Tuesday'
+p2663
+V0.547545
+p2664
+tp2665
+a(S'slayings'
+p2666
+V0.538001
+p2667
+tp2668
+a(S'victims'
+p2669
+V0.536208
+p2670
+tp2671
+a(S'Festus'
+p2672
+V0.531871
+p2673
+tp2674
+a(S'Galesburg'
+p2675
+V0.529305
+p2676
+tp2677
+a(S'sentence'
+p2678
+V0.523014
+p2679
+tp2680
+a(S'deaths'
+p2681
+V0.522768
+p2682
+tp2683
+a(S'ban'
+p2684
+V0.522003
+p2685
+tp2686
+a(S'people'
+p2687
+V0.521763
+p2688
+tp2689
+a(S'states'
+p2690
+V0.521741
+p2691
+tp2692
+a(S'Ark'
+p2693
+V0.52155
+p2694
+tp2695
+a(S'Sherwood'
+p2696
+V0.521547
+p2697
+tp2698
+a(S'motion'
+p2699
+V0.521454
+p2700
+tp2701
+a(S'closure'
+p2702
+V0.521208
+p2703
+tp2704
+a(S'Tom'
+p2705
+V0.51929
+p2706
+tp2707
+a(S'plan'
+p2708
+V0.519053
+p2709
+tp2710
+a(S'comment'
+p2711
+V0.51872
+p2712
+tp2713
+a(S'trial'
+p2714
+V0.518705
+p2715
+tp2716
+a(S'Southern'
+p2717
+V0.518591
+p2718
+tp2719
+a(S'murder'
+p2720
+V0.518291
+p2721
+tp2722
+a(S'impact'
+p2723
+V0.518018
+p2724
+tp2725
+aa(lp2726
+(S'Leader Eric Cantor'
+p2727
+V0.976499
+p2728
+tp2729
+a(S'Government Shutdown Prevention'
+p2730
+V0.917816
+p2731
+tp2732
+a(S'Senate'
+p2733
+V0.750864
+p2734
+tp2735
+a(S'Ezra Klein'
+p2736
+V0.568808
+p2737
+tp2738
+a(S'constitutional authority'
+p2739
+V0.543499
+p2740
+tp2741
+a(S'health-care law'
+p2742
+V0.490178
+p2743
+tp2744
+a(S'traditional roles'
+p2745
+V0.472753
+p2746
+tp2747
+a(S'actual deal'
+p2748
+V0.46012
+p2749
+tp2750
+a(S'Boehner\xe2\x80\x99s office'
+p2751
+V0.454333
+p2752
+tp2753
+a(S'president'
+p2754
+V0.376964
+p2755
+tp2756
+a(S'House'
+p2757
+V0.302641
+p2758
+tp2759
+a(S'legislation'
+p2760
+V0.267341
+p2761
+tp2762
+a(S'problem'
+p2763
+V0.238379
+p2764
+tp2765
+a(S'veto'
+p2766
+V0.214091
+p2767
+tp2768
+aa(lp2769
+(S'Idol Meter post'
+p2770
+V0.933237
+p2771
+tp2772
+a(S'dazzling vocal chops'
+p2773
+V0.819693
+p2774
+tp2775
+a(S'Siobhan Magnus Syndrome'
+p2776
+V0.77577
+p2777
+tp2778
+a(S'Elton John catalog'
+p2779
+V0.759952
+p2780
+tp2781
+a(S'right track'
+p2782
+V0.554868
+p2783
+tp2784
+a(S'American Idol'
+p2785
+V0.554101
+p2786
+tp2787
+a(S'Ken Barnes'
+p2788
+V0.492048
+p2789
+tp2790
+a(S'Stevie Wonder'
+p2791
+V0.470412
+p2792
+tp2793
+a(S'Naima Adedapo'
+p2794
+V0.464915
+p2795
+tp2796
+a(S'Scotty McCreery'
+p2797
+V0.44724
+p2798
+tp2799
+a(S'asey Abrams'
+p2800
+V0.414215
+p2801
+tp2802
+a(S'quirkier characters'
+p2803
+V0.409051
+p2804
+tp2805
+aa(lp2806
+(S'landmark structure\xe2\x80\x94Potala Palace'
+p2807
+V0.927214
+p2808
+tp2809
+a(S'centuries-old world heritage'
+p2810
+V0.841106
+p2811
+tp2812
+a(S'different moods'
+p2813
+V0.670493
+p2814
+tp2815
+a(S'Zou Jiyu'
+p2816
+V0.579336
+p2817
+tp2818
+a(S'weather conditions'
+p2819
+V0.576171
+p2820
+tp2821
+a(S'Tibet'
+p2822
+V0.557554
+p2823
+tp2824
+a(S'photographers'
+p2825
+V0.398099
+p2826
+tp2827
+a(S'series'
+p2828
+V0.34821
+p2829
+tp2830
+a(S'pictures'
+p2831
+V0.347723
+p2832
+tp2833
+a(S'photos'
+p2834
+V0.343021
+p2835
+tp2836
+a(S'way'
+p2837
+V0.341679
+p2838
+tp2839
+aa(lp2840
+(S'soraya sarhaddi nelson'
+p2841
+V0.921558
+p2842
+tp2843
+a(S'president bashar assad'
+p2844
+V0.833602
+p2845
+tp2846
+a(S'greater political freedom'
+p2847
+V0.716276
+p2848
+tp2849
+a(S'Syria'
+p2850
+V0.710597
+p2851
+tp2852
+a(S'montagne'
+p2853
+V0.660207
+p2854
+tp2855
+a(S'renee montagne'
+p2856
+V0.637527
+p2857
+tp2858
+a(S'emergency law'
+p2859
+V0.634645
+p2860
+tp2861
+a(S'President Assad'
+p2862
+V0.607487
+p2863
+tp2864
+a(S'steve inskeep'
+p2865
+V0.599898
+p2866
+tp2867
+a(S'Mr. Assad'
+p2868
+V0.577303
+p2869
+tp2870
+a(S'Syrian human rights'
+p2871
+V0.559392
+p2872
+tp2873
+a(S'NPR'
+p2874
+V0.533452
+p2875
+tp2876
+a(S'NPR News'
+p2877
+V0.528802
+p2878
+tp2879
+a(S'protesters'
+p2880
+V0.522707
+p2881
+tp2882
+a(S'anti-government protests'
+p2883
+V0.522464
+p2884
+tp2885
+a(S'pro-government demonstrators'
+p2886
+V0.50633
+p2887
+tp2888
+a(S'NPR transcripts'
+p2889
+V0.502202
+p2890
+tp2891
+a(S'MORNING EDITION'
+p2892
+V0.498579
+p2893
+tp2894
+a(S'unprecedented masses'
+p2895
+V0.496698
+p2896
+tp2897
+a(S'Baath Party'
+p2898
+V0.494458
+p2899
+tp2900
+a(S'Syrian nation'
+p2901
+V0.49444
+p2902
+tp2903
+a(S'sectarian divisions'
+p2904
+V0.494049
+p2905
+tp2906
+a(S'Syrian streets'
+p2907
+V0.493155
+p2908
+tp2909
+a(S'defiant speeches'
+p2910
+V0.490194
+p2911
+tp2912
+a(S'dramatic revamping'
+p2913
+V0.489102
+p2914
+tp2915
+a(S'government forces'
+p2916
+V0.488942
+p2917
+tp2918
+a(S'Ammar Gorabi'
+p2919
+V0.486921
+p2920
+tp2921
+a(S'entire cabinet'
+p2922
+V0.486768
+p2923
+tp2924
+a(S'permissions pages'
+p2925
+V0.483938
+p2926
+tp2927
+a(S'final form'
+p2928
+V0.483582
+p2929
+tp2930
+a(S'website terms'
+p2931
+V0.483565
+p2932
+tp2933
+a(S'authoritative record'
+p2934
+V0.48237
+p2935
+tp2936
+a(S'strong supporters'
+p2937
+V0.481669
+p2938
+tp2939
+a(S'rush deadline'
+p2940
+V0.478925
+p2941
+tp2942
+a(S'pyramid structure'
+p2943
+V0.477999
+p2944
+tp2945
+a(S'Mr. Gorabi'
+p2946
+V0.477528
+p2947
+tp2948
+a(S'action'
+p2949
+V0.44738
+p2950
+tp2951
+a(S'state'
+p2952
+V0.446653
+p2953
+tp2954
+a(S'package'
+p2955
+V0.445291
+p2956
+tp2957
+a(S'reforms'
+p2958
+V0.436393
+p2959
+tp2960
+a(S'decades'
+p2961
+V0.435871
+p2962
+tp2963
+a(S'host'
+p2964
+V0.433855
+p2965
+tp2966
+a(S'parliament'
+p2967
+V0.433195
+p2968
+tp2969
+a(S'Cairo'
+p2970
+V0.433031
+p2971
+tp2972
+a(S'events'
+p2973
+V0.432818
+p2974
+tp2975
+a(S'Tunisia'
+p2976
+V0.430673
+p2977
+tp2978
+a(S'translator'
+p2979
+V0.430298
+p2980
+tp2981
+a(S'ph'
+p2982
+V0.430172
+p2983
+tp2984
+a(S'effect'
+p2985
+V0.427539
+p2986
+tp2987
+a(S'people'
+p2988
+V0.426502
+p2989
+tp2990
+aa(lp2991
+(S'Herman Van Rompuy'
+p2992
+V0.96195
+p2993
+tp2994
+a(S'Libyan leader Moammar'
+p2995
+V0.787594
+p2996
+tp2997
+a(S'eu president'
+p2998
+V0.766259
+p2999
+tp3000
+a(S'Prime Minister Jens'
+p3001
+V0.675075
+p3002
+tp3003
+a(S'Libyan civilians'
+p3004
+V0.642344
+p3005
+tp3006
+a(S'EU nations'
+p3007
+V0.578247
+p3008
+tp3009
+a(S'secret talks'
+p3010
+V0.513882
+p3011
+tp3012
+a(S'best protection'
+p3013
+V0.504908
+p3014
+tp3015
+a(S'ouster'
+p3016
+V0.496733
+p3017
+tp3018
+a(S'countries meeting'
+p3019
+V0.481831
+p3020
+tp3021
+a(S'Gaddafi'
+p3022
+V0.39153
+p3023
+tp3024
+a(S'ruler'
+p3025
+V0.354056
+p3026
+tp3027
+a(S'AP'
+p3028
+V0.348275
+p3029
+tp3030
+a(S'exit'
+p3031
+V0.344676
+p3032
+tp3033
+a(S'Wednesday'
+p3034
+V0.341697
+p3035
+tp3036
+a(S'Tuesday'
+p3037
+V0.339109
+p3038
+tp3039
+a(S'Israel'
+p3040
+V0.332282
+p3041
+tp3042
+a(S'News'
+p3043
+V0.332247
+p3044
+tp3045
+a(S'London'
+p3046
+V0.328012
+p3047
+tp3048
+a(S'Stoltenberg'
+p3049
+V0.327143
+p3050
+tp3051
+aa(lp3052
+(S'CRA director emeritus'
+p3053
+V0.950509
+p3054
+tp3055
+a(S'Signature Dish'
+p3056
+V0.948115
+p3057
+tp3058
+a(S'Outstanding Professional Award'
+p3059
+V0.907958
+p3060
+tp3061
+a(S'John Elway'
+p3062
+V0.851474
+p3063
+tp3064
+a(S'original Elway'
+p3065
+V0.84735
+p3066
+tp3067
+a(S'Signature Dish Outstanding'
+p3068
+V0.842675
+p3069
+tp3070
+a(S'Ritz-Carlton Denver'
+p3071
+V0.834526
+p3072
+tp3073
+a(S'Signature Dish Philanthropist'
+p3074
+V0.828867
+p3075
+tp3076
+a(S'Signature Dish Exceptional'
+p3077
+V0.827864
+p3078
+tp3079
+a(S'Signature Dish Regional'
+p3080
+V0.826873
+p3081
+tp3082
+a(S'CCT chief executive'
+p3083
+V0.814245
+p3084
+tp3085
+a(S'Creek steak place'
+p3086
+V0.804984
+p3087
+tp3088
+a(S'Colorado Restaurant Association'
+p3089
+V0.800434
+p3090
+tp3091
+a(S'Stars Knoebel Award'
+p3092
+V0.799577
+p3093
+tp3094
+a(S'ringleader Tom Leydon'
+p3095
+V0.798286
+p3096
+tp3097
+a(S'free Rockies tickets'
+p3098
+V0.791726
+p3099
+tp3100
+a(S'partner Tim Schmidt'
+p3101
+V0.789378
+p3102
+tp3103
+a(S'popular ski town'
+p3104
+V0.787546
+p3105
+tp3106
+a(S'P. Ayers Award'
+p3107
+V0.78595
+p3108
+tp3109
+a(S'Colorado hospitality standouts'
+p3110
+V0.781585
+p3111
+tp3112
+a(S'Josh Wol kon'
+p3113
+V0.774129
+p3114
+tp3115
+a(S'Vesta Dipping Grill'
+p3116
+V0.773162
+p3117
+tp3118
+a(S'radio host Mike'
+p3119
+V0.770806
+p3120
+tp3121
+a(S'Booker T. Graves'
+p3122
+V0.769528
+p3123
+tp3124
+a(S'Industry Spotlight Awards'
+p3125
+V0.76948
+p3126
+tp3127
+a(S'Vail Valley'
+p3128
+V0.759546
+p3129
+tp3130
+a(S'Mile High United'
+p3131
+V0.759365
+p3132
+tp3133
+a(S'office break room'
+p3134
+V0.754948
+p3135
+tp3136
+a(S'new restaurant'
+p3137
+V0.740565
+p3138
+tp3139
+a(S'CCT Advertising'
+p3140
+V0.740002
+p3141
+tp3142
+a(S'Colorado Rockies'
+p3143
+V0.735419
+p3144
+tp3145
+a(S'Masquerade parade'
+p3146
+V0.730295
+p3147
+tp3148
+a(S'parade purpose'
+p3149
+V0.725272
+p3150
+tp3151
+a(S'restaurant business'
+p3152
+V0.724815
+p3153
+tp3154
+a(S'Rockies Opening'
+p3155
+V0.72416
+p3156
+tp3157
+a(S'Outstanding service'
+p3158
+V0.716973
+p3159
+tp3160
+a(S'Southwest restaurant'
+p3161
+V0.710919
+p3162
+tp3163
+a(S'award winners'
+p3164
+V0.707302
+p3165
+tp3166
+a(S'staff members'
+p3167
+V0.706604
+p3168
+tp3169
+a(S'FirstBank president'
+p3170
+V0.706173
+p3171
+tp3172
+a(S'Brian Nolan'
+p3173
+V0.704298
+p3174
+tp3175
+a(S'home opener'
+p3176
+V0.703093
+p3177
+tp3178
+a(S'licensing terms'
+p3179
+V0.702908
+p3180
+tp3181
+a(S'ski towns'
+p3182
+V0.701221
+p3183
+tp3184
+a(S'licensing agreement'
+p3185
+V0.699797
+p3186
+tp3187
+a(S'Beaver Creek'
+p3188
+V0.697184
+p3189
+tp3190
+a(S'Broadmoor Hotel'
+p3191
+V0.696828
+p3192
+tp3193
+a(S'hospitality industry'
+p3194
+V0.696816
+p3195
+tp3196
+a(S'Lorraine Cortese'
+p3197
+V0.696697
+p3198
+tp3199
+a(S'annual event'
+p3200
+V0.695744
+p3201
+tp3202
+aa(lp3203
+(S'radiation treatment'
+p3204
+V0.973082
+p3205
+tp3206
+a(S'radiation therapy'
+p3207
+V0.945588
+p3208
+tp3209
+a(S'cancer'
+p3210
+V0.711957
+p3211
+tp3212
+a(S'National Cancer Institute'
+p3213
+V0.624222
+p3214
+tp3215
+a(S'U.S. National Cancer'
+p3216
+V0.616234
+p3217
+tp3218
+a(S'radiation epidemiology branch'
+p3219
+V0.559148
+p3220
+tp3221
+a(S'earlier radiation therapy'
+p3222
+V0.52751
+p3223
+tp3224
+a(S'cancer survivors'
+p3225
+V0.498685
+p3226
+tp3227
+a(S'newer radiation treatments'
+p3228
+V0.477429
+p3229
+tp3230
+a(S'cancers'
+p3231
+V0.427049
+p3232
+tp3233
+a(S'Cancer Institute researchers'
+p3234
+V0.423102
+p3235
+tp3236
+a(S'adult cancer survivors'
+p3237
+V0.379791
+p3238
+tp3239
+a(S'researcher Amy Berrington'
+p3240
+V0.377278
+p3241
+tp3242
+a(S'Results cancer registries'
+p3243
+V0.374419
+p3244
+tp3245
+a(S'radiation oncology'
+p3246
+V0.36677
+p3247
+tp3248
+a(S'prostate cancer survivors'
+p3249
+V0.363019
+p3250
+tp3251
+a(S'American Cancer Society'
+p3252
+V0.339845
+p3253
+tp3254
+a(S'relatively safe treatment'
+p3255
+V0.317946
+p3256
+tp3257
+a(S"Dr. Anthony D'Amico"
+p3258
+V0.304583
+p3259
+tp3260
+a(S'cancer risks'
+p3261
+V0.285203
+p3262
+tp3263
+a(S'national vice president'
+p3264
+V0.27198
+p3265
+tp3266
+a(S'original cancer'
+p3267
+V0.260072
+p3268
+tp3269
+a(S'cancer treatment'
+p3270
+V0.259153
+p3271
+tp3272
+a(S'Berrington de Gonzalez'
+p3273
+V0.254103
+p3274
+tp3275
+a(S'lifestyle risks'
+p3276
+V0.231708
+p3277
+tp3278
+a(S'initial cancer'
+p3279
+V0.217305
+p3280
+tp3281
+a(S'secondary cancer'
+p3282
+V0.213523
+p3283
+tp3284
+a(S'percent'
+p3285
+V0.203807
+p3286
+tp3287
+a(S'treatment options'
+p3288
+V0.202323
+p3289
+tp3290
+aa(lp3291
+(S'Modernist Cuisine'
+p3292
+V0.974896
+p3293
+tp3294
+a(S'New York City'
+p3295
+V0.858187
+p3296
+tp3297
+a(S'coffee'
+p3298
+V0.826034
+p3299
+tp3300
+a(S'culinary circles coffee'
+p3301
+V0.775144
+p3302
+tp3303
+a(S'local coffee shop'
+p3304
+V0.758655
+p3305
+tp3306
+a(S'encyclopedic six-volume compendium'
+p3307
+V0.749346
+p3308
+tp3309
+a(S'Tyrannosaurus rex fossils'
+p3310
+V0.744073
+p3311
+tp3312
+a(S'Coffee Fest trade'
+p3313
+V0.743687
+p3314
+tp3315
+a(S'initial print run'
+p3316
+V0.740211
+p3317
+tp3318
+a(S'Synesso espresso machine'
+p3319
+V0.73903
+p3320
+tp3321
+a(S'chief technology officer'
+p3322
+V0.735367
+p3323
+tp3324
+a(S'New York Times'
+p3325
+V0.728354
+p3326
+tp3327
+a(S'abrasive water-jet cutter'
+p3328
+V0.703736
+p3329
+tp3330
+a(S'Mexico City'
+p3331
+V0.697019
+p3332
+tp3333
+a(S'earliest Synesso machines'
+p3334
+V0.695828
+p3335
+tp3336
+a(S'stronger coffee'
+p3337
+V0.671333
+p3338
+tp3339
+a(S'restaurant coffee'
+p3340
+V0.670692
+p3341
+tp3342
+a(S'coffee nut'
+p3343
+V0.667498
+p3344
+tp3345
+a(S'coffee gear'
+p3346
+V0.661886
+p3347
+tp3348
+a(S'Victrola Coffee'
+p3349
+V0.659755
+p3350
+tp3351
+a(S'coffee lovers'
+p3352
+V0.651413
+p3353
+tp3354
+a(S'Nathan Myhrvold'
+p3355
+V0.647979
+p3356
+tp3357
+a(S'chatty barista'
+p3358
+V0.645264
+p3359
+tp3360
+a(S'Malcolm Gladwell'
+p3361
+V0.638203
+p3362
+tp3363
+a(S'DreamWorks Animation'
+p3364
+V0.637808
+p3365
+tp3366
+a(S'expensive cookbooks'
+p3367
+V0.635554
+p3368
+tp3369
+a(S'Stephen Hawking'
+p3370
+V0.635489
+p3371
+tp3372
+a(S'list price'
+p3373
+V0.634127
+p3374
+tp3375
+a(S'chapter'
+p3376
+V0.633227
+p3377
+tp3378
+a(S'entire chapter'
+p3379
+V0.633017
+p3380
+tp3381
+a(S'God shot'
+p3382
+V0.631172
+p3383
+tp3384
+a(S'perfect shot'
+p3385
+V0.631048
+p3386
+tp3387
+a(S'stand-alone custard'
+p3388
+V0.627437
+p3389
+tp3390
+a(S'cutting-edge cooking'
+p3391
+V0.627328
+p3392
+tp3393
+a(S'New Yorker'
+p3394
+V0.626236
+p3395
+tp3396
+a(S'meticulous research'
+p3397
+V0.625379
+p3398
+tp3399
+a(S'Mark Prince'
+p3400
+V0.625214
+p3401
+tp3402
+a(S'conical burr'
+p3403
+V0.625143
+p3404
+tp3405
+a(S'second-class subject'
+p3406
+V0.624995
+p3407
+tp3408
+a(S'place right'
+p3409
+V0.623926
+p3410
+tp3411
+a(S'darker roasts'
+p3412
+V0.623229
+p3413
+tp3414
+a(S'Tim Wendelboe'
+p3415
+V0.622128
+p3416
+tp3417
+a(S'best temperature'
+p3418
+V0.621742
+p3419
+tp3420
+a(S'roast profiles'
+p3421
+V0.621584
+p3422
+tp3423
+a(S'prosumer machine'
+p3424
+V0.621552
+p3425
+tp3426
+a(S'best grinders'
+p3427
+V0.621517
+p3428
+tp3429
+a(S'water boils'
+p3430
+V0.621443
+p3431
+tp3432
+a(S'home brewers'
+p3433
+V0.621128
+p3434
+tp3435
+aa(lp3436
+(S'Buck Institute'
+p3437
+V0.962718
+p3438
+tp3439
+a(S'protein homeostasis'
+p3440
+V0.935224
+p3441
+tp3442
+a(S'life span'
+p3443
+V0.927959
+p3444
+tp3445
+a(S'Thioflavin T. Nematodes'
+p3446
+V0.746646
+p3447
+tp3448
+a(S'nematode worms'
+p3449
+V0.739622
+p3450
+tp3451
+a(S'Buck faculty member'
+p3452
+V0.718337
+p3453
+tp3454
+a(S'promising new approach'
+p3455
+V0.715757
+p3456
+tp3457
+a(S'prestigious scientific journal'
+p3458
+V0.715034
+p3459
+tp3460
+a(S'process'
+p3461
+V0.689789
+p3462
+tp3463
+a(S'L. Hillblom Foundation'
+p3464
+V0.678594
+p3465
+tp3466
+a(S'Lithgow'
+p3467
+V0.675793
+p3468
+tp3469
+a(S'certain three-dimensional shape'
+p3470
+V0.669091
+p3471
+tp3472
+a(S'multiple disease states'
+p3473
+V0.66107
+p3474
+tp3475
+a(S'Indian spice turmeric'
+p3476
+V0.660658
+p3477
+tp3478
+a(S'Contact Richard Halstead'
+p3479
+V0.659499
+p3480
+tp3481
+a(S'human clinical trials'
+p3482
+V0.655226
+p3483
+tp3484
+a(S'normal aging'
+p3485
+V0.648565
+p3486
+tp3487
+a(S'Dominican University student'
+p3488
+V0.645623
+p3489
+tp3490
+a(S'study'
+p3491
+V0.644951
+p3492
+tp3493
+a(S'Gordon Lithgow'
+p3494
+V0.642974
+p3495
+tp3496
+a(S'compounds'
+p3497
+V0.63443
+p3498
+tp3499
+a(S'Lithgow lab'
+p3500
+V0.631749
+p3501
+tp3502
+a(S'disease process'
+p3503
+V0.598805
+p3504
+tp3505
+a(S'new study'
+p3506
+V0.595069
+p3507
+tp3508
+a(S'chemical compounds'
+p3509
+V0.59418
+p3510
+tp3511
+a(S'tiny worms'
+p3512
+V0.590153
+p3513
+tp3514
+a(S'uncontrollable process'
+p3515
+V0.584865
+p3516
+tp3517
+a(S'research study'
+p3518
+V0.583854
+p3519
+tp3520
+a(S'age-related diseases'
+p3521
+V0.575839
+p3522
+tp3523
+a(S'online edition'
+p3524
+V0.572329
+p3525
+tp3526
+a(S'disease-related proteins'
+p3527
+V0.564226
+p3528
+tp3529
+a(S'excellent subjects'
+p3530
+V0.564055
+p3531
+tp3532
+a(S'David Zucker'
+p3533
+V0.560152
+p3534
+tp3535
+a(S'genetic code'
+p3536
+V0.558857
+p3537
+tp3538
+a(S'genetic mutations'
+p3539
+V0.556371
+p3540
+tp3541
+a(S'single genes'
+p3542
+V0.554784
+p3543
+tp3544
+a(S'Silvestre Alavez'
+p3545
+V0.553725
+p3546
+tp3547
+a(S'anti-aging effect'
+p3548
+V0.551334
+p3549
+tp3550
+a(S'long time'
+p3551
+V0.55122
+p3552
+tp3553
+a(S'degenerative diseases'
+p3554
+V0.55088
+p3555
+tp3556
+a(S'major contributor'
+p3557
+V0.550777
+p3558
+tp3559
+a(S'complex animals'
+p3560
+V0.550313
+p3561
+tp3562
+a(S'proper structure'
+p3563
+V0.549568
+p3564
+tp3565
+a(S'genetic studies'
+p3566
+V0.549465
+p3567
+tp3568
+a(S'building blocks'
+p3569
+V0.54837
+p3570
+tp3571
+a(S'research team'
+p3572
+V0.544532
+p3573
+tp3574
+a(S'Follow-up research'
+p3575
+V0.544064
+p3576
+tp3577
+a(S'medical schools'
+p3578
+V0.542468
+p3579
+tp3580
+a(S'health benefits'
+p3581
+V0.540936
+p3582
+tp3583
+a(S'staff scientist'
+p3584
+V0.539971
+p3585
+tp3586
+aa(lp3587
+(S'Cella Energy'
+p3588
+V0.950376
+p3589
+tp3590
+a(S'hydrogen'
+p3591
+V0.772659
+p3592
+tp3593
+a(S'Cella Energy Chief'
+p3594
+V0.756639
+p3595
+tp3596
+a(S'Officer Stephen Bennington'
+p3597
+V0.709792
+p3598
+tp3599
+a(S'Chief Scientific Officer'
+p3600
+V0.696533
+p3601
+tp3602
+a(S'Scientific Officer Stephen'
+p3603
+V0.694722
+p3604
+tp3605
+a(S'Energy Chief Scientific'
+p3606
+V0.69367
+p3607
+tp3608
+a(S'tiny plastic beads'
+p3609
+V0.59127
+p3610
+tp3611
+a(S'Hydrogen fuel'
+p3612
+V0.583499
+p3613
+tp3614
+a(S'cars Hydrogen'
+p3615
+V0.583432
+p3616
+tp3617
+a(S'viable alternative'
+p3618
+V0.57559
+p3619
+tp3620
+a(S'View comments Technology'
+p3621
+V0.573392
+p3622
+tp3623
+a(S'waste little beads'
+p3624
+V0.573079
+p3625
+tp3626
+a(S'Daily Mail Reporter'
+p3627
+V0.572236
+p3628
+tp3629
+a(S'environmentally friendly alternative'
+p3630
+V0.570536
+p3631
+tp3632
+a(S'Rutherford Appleton Laboratory'
+p3633
+V0.568903
+p3634
+tp3635
+a(S'carbon-free fuel'
+p3636
+V0.56039
+p3637
+tp3638
+a(S'new technology'
+p3639
+V0.558386
+p3640
+tp3641
+a(S'economically viable alternative'
+p3642
+V0.553745
+p3643
+tp3644
+a(S'white tissue-like material'
+p3645
+V0.547324
+p3646
+tp3647
+a(S'renewable energy sources'
+p3648
+V0.546602
+p3649
+tp3650
+a(S'regular liquid fuels'
+p3651
+V0.546355
+p3652
+tp3653
+a(S'large established companies'
+p3654
+V0.538307
+p3655
+tp3656
+a(S'petrol tank'
+p3657
+V0.518742
+p3658
+tp3659
+a(S'new beads'
+p3660
+V0.505593
+p3661
+tp3662
+a(S'old beads'
+p3663
+V0.50295
+p3664
+tp3665
+a(S'viable option'
+p3666
+V0.50032
+p3667
+tp3668
+a(S'new process'
+p3669
+V0.499676
+p3670
+tp3671
+a(S'Bennington The development'
+p3672
+V0.497885
+p3673
+tp3674
+a(S'new way'
+p3675
+V0.494237
+p3676
+tp3677
+a(S'groundbreaking technique'
+p3678
+V0.493657
+p3679
+tp3680
+a(S'natural gas'
+p3681
+V0.492929
+p3682
+tp3683
+a(S'practical way'
+p3684
+V0.49244
+p3685
+tp3686
+a(S'lower temperatures'
+p3687
+V0.484638
+p3688
+tp3689
+a(S'fine powder'
+p3690
+V0.483931
+p3691
+tp3692
+a(S'faster rate'
+p3693
+V0.483415
+p3694
+tp3695
+a(S'ideal solution'
+p3696
+V0.483175
+p3697
+tp3698
+a(S'times more energy'
+p3699
+V0.483162
+p3700
+tp3701
+a(S'encapsulation process'
+p3702
+V0.481893
+p3703
+tp3704
+a(S'carbon emissions'
+p3705
+V0.481282
+p3706
+tp3707
+a(S'human hair'
+p3708
+V0.481279
+p3709
+tp3710
+a(S'electric car'
+p3711
+V0.481214
+p3712
+tp3713
+a(S'carbon release'
+p3714
+V0.480978
+p3715
+tp3716
+a(S'diesel vehicles'
+p3717
+V0.480071
+p3718
+tp3719
+a(S'new era'
+p3720
+V0.47802
+p3721
+tp3722
+a(S'carbon-free motoring'
+p3723
+V0.477248
+p3724
+tp3725
+a(S'current infrastructure'
+p3726
+V0.476981
+p3727
+tp3728
+a(S'Stephen Voller'
+p3729
+V0.47626
+p3730
+tp3731
+a(S'minimal modification'
+p3732
+V0.476162
+p3733
+tp3734
+a(S'fossil fuels'
+p3735
+V0.473436
+p3736
+tp3737
+aa(lp3738
+(S'Red Sox'
+p3739
+V0.988851
+p3740
+tp3741
+a(S'Boston Red Sox'
+p3742
+V0.856886
+p3743
+tp3744
+a(S'Red Sox at-bat'
+p3745
+V0.800716
+p3746
+tp3747
+a(S'Red Sox manager'
+p3748
+V0.797234
+p3749
+tp3750
+a(S'All-Stars Adrian Gonzalez'
+p3751
+V0.793571
+p3752
+tp3753
+a(S'hard-throwing Daniel Bard'
+p3754
+V0.791616
+p3755
+tp3756
+a(S'AL championship flag'
+p3757
+V0.788756
+p3758
+tp3759
+a(S'American League championship'
+p3760
+V0.788247
+p3761
+tp3762
+a(S'AP Sports Writer'
+p3763
+V0.782751
+p3764
+tp3765
+a(S'manager Ron Washington'
+p3766
+V0.781324
+p3767
+tp3768
+a(S'batter Julio Borbon'
+p3769
+V0.777135
+p3770
+tp3771
+a(S'spring training games'
+p3772
+V0.776864
+p3773
+tp3774
+a(S'AL MVP Josh'
+p3775
+V0.776344
+p3776
+tp3777
+a(S'left-hander Jon Lester'
+p3778
+V0.77353
+p3779
+tp3780
+a(S'career leadoff homer'
+p3781
+V0.770349
+p3782
+tp3783
+a(S'reliever Frank Francisco'
+p3784
+V0.769707
+p3785
+tp3786
+a(S'right fielder Cruz'
+p3787
+V0.763212
+p3788
+tp3789
+a(S'major league debut'
+p3790
+V0.758156
+p3791
+tp3792
+a(S'Tampa Bay'
+p3793
+V0.753302
+p3794
+tp3795
+a(S'West rival Angels'
+p3796
+V0.751902
+p3797
+tp3798
+a(S'weak infield popout'
+p3799
+V0.749654
+p3800
+tp3801
+a(S'Editor Brent Jones'
+p3802
+V0.749049
+p3803
+tp3804
+a(S'major league seasons'
+p3805
+V0.7485
+p3806
+tp3807
+a(S'New York Yankees'
+p3808
+V0.745983
+p3809
+tp3810
+a(S'upper reserved area'
+p3811
+V0.745352
+p3812
+tp3813
+a(S'Mike Napoli'
+p3814
+V0.741498
+p3815
+tp3816
+a(S'season opener'
+p3817
+V0.740995
+p3818
+tp3819
+a(S'Texas Rangers'
+p3820
+V0.740837
+p3821
+tp3822
+a(S'David Murphy'
+p3823
+V0.738008
+p3824
+tp3825
+a(S'Pinch-hitter Murphy'
+p3826
+V0.735759
+p3827
+tp3828
+a(S'Murphy pinch-hit'
+p3829
+V0.724516
+p3830
+tp3831
+a(S'relegates Murphy'
+p3832
+V0.723695
+p3833
+tp3834
+a(S'Texas rallies'
+p3835
+V0.72028
+p3836
+tp3837
+a(S'Texas reliever'
+p3838
+V0.719075
+p3839
+tp3840
+a(S'Boston By Stephen'
+p3841
+V0.715648
+p3842
+tp3843
+a(S'Kevin Youkilis'
+p3844
+V0.712603
+p3845
+tp3846
+a(S'Rangers newcomers'
+p3847
+V0.707588
+p3848
+tp3849
+a(S'Texas order'
+p3850
+V0.705164
+p3851
+tp3852
+a(S'exhilarating comeback'
+p3853
+V0.705127
+p3854
+tp3855
+a(S'Boston debut'
+p3856
+V0.704786
+p3857
+tp3858
+a(S'four-run outburst'
+p3859
+V0.703145
+p3860
+tp3861
+a(S'crafty left-hander'
+p3862
+V0.702896
+p3863
+tp3864
+a(S'body language'
+p3865
+V0.702321
+p3866
+tp3867
+a(S'Ian Kinsler'
+p3868
+V0.702283
+p3869
+tp3870
+a(S'foul territory'
+p3871
+V0.701504
+p3872
+tp3873
+a(S'left-field corner'
+p3874
+V0.701253
+p3875
+tp3876
+a(S'foul ball'
+p3877
+V0.700129
+p3878
+tp3879
+a(S'1-3 innings'
+p3880
+V0.699115
+p3881
+tp3882
+a(S'Carl Crawford'
+p3883
+V0.699074
+p3884
+tp3885
+a(S'slicing liner'
+p3886
+V0.69763
+p3887
+tp3888
+aa(lp3889
+(S'Jimenez'
+p3890
+V0.918232
+p3891
+tp3892
+a(S'Ubaldo Jimenez'
+p3893
+V0.768374
+p3894
+tp3895
+a(S'time Jimenez'
+p3896
+V0.681941
+p3897
+tp3898
+a(S'usual breaking stuff'
+p3899
+V0.596293
+p3900
+tp3901
+a(S'Colorado Rockies ace'
+p3902
+V0.591938
+p3903
+tp3904
+a(S'Sports Writer DENVER'
+p3905
+V0.591007
+p3906
+tp3907
+a(S'time Matt Lindstrom'
+p3908
+V0.586597
+p3909
+tp3910
+a(S'NL All-Star Game'
+p3911
+V0.5488
+p3912
+tp3913
+a(S'strained abdominal muscle'
+p3914
+V0.548735
+p3915
+tp3916
+a(S'pitcher Ian Kennedy'
+p3917
+V0.544362
+p3918
+tp3919
+a(S'Colorado RHP Aaron'
+p3920
+V0.540469
+p3921
+tp3922
+a(S'Editor Brent Jones'
+p3923
+V0.526209
+p3924
+tp3925
+a(S'usual stuff'
+p3926
+V0.495278
+p3927
+tp3928
+a(S'usual oomph'
+p3929
+V0.484303
+p3930
+tp3931
+a(S'Miguel Montero'
+p3932
+V0.48415
+p3933
+tp3934
+a(S'Justin Upton'
+p3935
+V0.484139
+p3936
+tp3937
+a(S'Arnie Stapleton'
+p3938
+V0.467617
+p3939
+tp3940
+a(S'Gerardo Parra'
+p3941
+V0.467211
+p3942
+tp3943
+a(S'wild pitch'
+p3944
+V0.465338
+p3945
+tp3946
+a(S'go-ahead run'
+p3947
+V0.464023
+p3948
+tp3949
+a(S'11th inning'
+p3950
+V0.461286
+p3951
+tp3952
+a(S'Coors Field'
+p3953
+V0.460976
+p3954
+tp3955
+a(S'different pitches'
+p3956
+V0.45953
+p3957
+tp3958
+a(S'11-inning loss'
+p3959
+V0.455617
+p3960
+tp3961
+a(S'batting practice'
+p3962
+V0.455435
+p3963
+tp3964
+a(S'proper spin'
+p3965
+V0.44953
+p3966
+tp3967
+a(S'home runs'
+p3968
+V0.444676
+p3969
+tp3970
+a(S'three-run homer'
+p3971
+V0.441951
+p3972
+tp3973
+a(S'Willie Bloomquist'
+p3974
+V0.441899
+p3975
+tp3976
+a(S'unusual futility'
+p3977
+V0.441765
+p3978
+tp3979
+a(S'greatest stuff'
+p3980
+V0.439196
+p3981
+tp3982
+a(S'career homer'
+p3983
+V0.438001
+p3984
+tp3985
+a(S'extra bases'
+p3986
+V0.436819
+p3987
+tp3988
+a(S'Todd Helton'
+p3989
+V0.434547
+p3990
+tp3991
+a(S'innings'
+p3992
+V0.434294
+p3993
+tp3994
+a(S'Stephen Drew'
+p3995
+V0.430713
+p3996
+tp3997
+a(S'San Francisco'
+p3998
+V0.430611
+p3999
+tp4000
+a(S'moderation process'
+p4001
+V0.430477
+p4002
+tp4003
+a(S'phone number'
+p4004
+V0.429844
+p4005
+tp4006
+a(S'three-run shot'
+p4007
+V0.429379
+p4008
+tp4009
+a(S'Conversation Guidelines'
+p4010
+V0.429174
+p4011
+tp4012
+a(S'brief review'
+p4013
+V0.428338
+p4014
+tp4015
+a(S'Associated Press'
+p4016
+V0.427705
+p4017
+tp4018
+a(S'Report Abuse'
+p4019
+V0.426865
+p4020
+tp4021
+a(S'one-time deal'
+p4022
+V0.426491
+p4023
+tp4024
+a(S'contact Standards'
+p4025
+V0.424389
+p4026
+tp4027
+a(S'publication consideration'
+p4028
+V0.423184
+p4029
+tp4030
+a(S'bad outing'
+p4031
+V0.422558
+p4032
+tp4033
+a(S'broken finger'
+p4034
+V0.420121
+p4035
+tp4036
+a(S'bullpen'
+p4037
+V0.376934
+p4038
+tp4039
+aa(lp4040
+(S'kansas city'
+p4041
+V0.982065
+p4042
+tp4043
+a(S'City past Angels'
+p4044
+V0.839263
+p4045
+tp4046
+a(S'home run'
+p4047
+V0.822839
+p4048
+tp4049
+a(S'Los Angeles Angels'
+p4050
+V0.818349
+p4051
+tp4052
+a(S"Kila Ka'aihue"
+p4053
+V0.790805
+p4054
+tp4055
+a(S'Writer KANSAS CITY'
+p4056
+V0.778706
+p4057
+tp4058
+a(S'Angels bullpen'
+p4059
+V0.750128
+p4060
+tp4061
+a(S'home runs'
+p4062
+V0.748323
+p4063
+tp4064
+a(S'Los Angeles relievers'
+p4065
+V0.747359
+p4066
+tp4067
+a(S'Starters Dan Haren'
+p4068
+V0.742743
+p4069
+tp4070
+a(S'wild pitch'
+p4071
+V0.742494
+p4072
+tp4073
+a(S'418-foot home run'
+p4074
+V0.742377
+p4075
+tp4076
+a(S'manager Mike Scioscia'
+p4077
+V0.738736
+p4078
+tp4079
+a(S'Royals manager Ned'
+p4080
+V0.737119
+p4081
+tp4082
+a(S'straight bad outing'
+p4083
+V0.729286
+p4084
+tp4085
+a(S'major league'
+p4086
+V0.723436
+p4087
+tp4088
+a(S'major league game'
+p4089
+V0.719042
+p4090
+tp4091
+a(S'left shoulder surgery'
+p4092
+V0.704433
+p4093
+tp4094
+a(S'Editor Brent Jones'
+p4095
+V0.698483
+p4096
+tp4097
+a(S'major league history'
+p4098
+V0.694368
+p4099
+tp4100
+a(S'Michael Kohn'
+p4101
+V0.674929
+p4102
+tp4103
+a(S'good pitch'
+p4104
+V0.668813
+p4105
+tp4106
+a(S'impressive innings'
+p4107
+V0.650519
+p4108
+tp4109
+a(S'good arms'
+p4110
+V0.638527
+p4111
+tp4112
+a(S'four-run cushion'
+p4113
+V0.631011
+p4114
+tp4115
+a(S'Joakim Soria'
+p4116
+V0.627721
+p4117
+tp4118
+a(S'Friday night'
+p4119
+V0.626964
+p4120
+tp4121
+a(S'little bit'
+p4122
+V0.625763
+p4123
+tp4124
+a(S'good swing'
+p4125
+V0.625748
+p4126
+tp4127
+a(S'sample size'
+p4128
+V0.625292
+p4129
+tp4130
+a(S'good pitches'
+p4131
+V0.624712
+p4132
+tp4133
+a(S'Jeff Francis'
+p4134
+V0.624678
+p4135
+tp4136
+a(S'Doug Tucker'
+p4137
+V0.624634
+p4138
+tp4139
+a(S'lone run'
+p4140
+V0.623392
+p4141
+tp4142
+a(S'good game'
+p4143
+V0.621915
+p4144
+tp4145
+a(S'opening day home'
+p4146
+V0.618679
+p4147
+tp4148
+a(S'Howie Kendrick'
+p4149
+V0.617783
+p4150
+tp4151
+a(S'full-count delivery'
+p4152
+V0.615994
+p4153
+tp4154
+a(S'Jeff Francoeur'
+p4155
+V0.615787
+p4156
+tp4157
+a(S'pressure situations'
+p4158
+V0.612449
+p4159
+tp4160
+a(S'exact way'
+p4161
+V0.611835
+p4162
+tp4163
+a(S'base runner'
+p4164
+V0.61092
+p4165
+tp4166
+a(S'free agent'
+p4167
+V0.610648
+p4168
+tp4169
+a(S'contact Standards'
+p4170
+V0.609436
+p4171
+tp4172
+a(S'moderation process'
+p4173
+V0.608863
+p4174
+tp4175
+a(S'phone number'
+p4176
+V0.608765
+p4177
+tp4178
+a(S'brief review'
+p4179
+V0.607845
+p4180
+tp4181
+a(S'publication consideration'
+p4182
+V0.607707
+p4183
+tp4184
+a(S'Conversation Guidelines'
+p4185
+V0.607682
+p4186
+tp4187
+a(S'line drive'
+p4188
+V0.607532
+p4189
+tp4190
+aa(lp4191
+(S'New Jersey Nets'
+p4192
+V0.989445
+p4193
+tp4194
+a(S'anemic Nets attack'
+p4195
+V0.937863
+p4196
+tp4197
+a(S'ET Thaddeus Young'
+p4198
+V0.911738
+p4199
+tp4200
+a(S'\xe2\x80\x94WSJ Wire Services'
+p4201
+V0.716844
+p4202
+tp4203
+a(S'one-year absence'
+p4204
+V0.535003
+p4205
+tp4206
+a(S'Philadelphia 76ers'
+p4207
+V0.517043
+p4208
+tp4209
+a(S'playoff spot'
+p4210
+V0.511149
+p4211
+tp4212
+a(S'Elton Brand'
+p4213
+V0.483946
+p4214
+tp4215
+a(S'Andre Iguodala'
+p4216
+V0.457706
+p4217
+tp4218
+a(S'Friday night'
+p4219
+V0.453742
+p4220
+tp4221
+a(S'Brandan Wright'
+p4222
+V0.411857
+p4223
+tp4224
+a(S'Jrue Holiday'
+p4225
+V0.408797
+p4226
+tp4227
+aa(lp4228
+(S'Google'
+p4229
+V0.926818
+p4230
+tp4231
+a(S'Google Information Technology'
+p4232
+V0.783231
+p4233
+tp4234
+a(S'Google\xe2\x80\x99s revenues'
+p4235
+V0.621551
+p4236
+tp4237
+a(S'Google enterprises'
+p4238
+V0.611446
+p4239
+tp4240
+a(S'Google businesses'
+p4241
+V0.598756
+p4242
+tp4243
+a(S'Google Advertising'
+p4244
+V0.588199
+p4245
+tp4246
+a(S'China'
+p4247
+V0.575852
+p4248
+tp4249
+a(S'possible tax avoidance'
+p4250
+V0.559188
+p4251
+tp4252
+a(S'tax violations'
+p4253
+V0.558488
+p4254
+tp4255
+a(S'subsidiaries Chinese authorities'
+p4256
+V0.545471
+p4257
+tp4258
+a(S'internet search giant'
+p4259
+V0.540224
+p4260
+tp4261
+a(S'Economic Daily'
+p4262
+V0.536796
+p4263
+tp4264
+a(S'Chinese-language Economic Daily'
+p4265
+V0.53146
+p4266
+tp4267
+a(S'separate firm'
+p4268
+V0.527788
+p4269
+tp4270
+a(S'Chinese tax law'
+p4271
+V0.523581
+p4272
+tp4273
+a(S'internet censorship'
+p4274
+V0.516114
+p4275
+tp4276
+a(S'taxation authorities'
+p4277
+V0.514832
+p4278
+tp4279
+a(S'largest internet market'
+p4280
+V0.511062
+p4281
+tp4282
+a(S'official Xinhua news'
+p4283
+V0.492782
+p4284
+tp4285
+a(S'relevant tax laws'
+p4286
+V0.490505
+p4287
+tp4288
+a(S'companies'
+p4289
+V0.487554
+p4290
+tp4291
+a(S'sole first-tier reseller'
+p4292
+V0.486865
+p4293
+tp4294
+a(S'spokeswoman Jiang Yu'
+p4295
+V0.485925
+p4296
+tp4297
+a(S'Chinese government'
+p4298
+V0.468195
+p4299
+tp4300
+a(S'internet company'
+p4301
+V0.400929
+p4302
+tp4303
+a(S'tax rules'
+p4304
+V0.398174
+p4305
+tp4306
+a(S'China\xe2\x80\x99s internet'
+p4307
+V0.394951
+p4308
+tp4309
+a(S'state-run newspaper'
+p4310
+V0.392016
+p4311
+tp4312
+a(S'Long-running feud'
+p4313
+V0.391101
+p4314
+tp4315
+a(S'accused companies'
+p4316
+V0.383487
+p4317
+tp4318
+a(S'China service'
+p4319
+V0.381656
+p4320
+tp4321
+a(S'high-profile companies'
+p4322
+V0.378128
+p4323
+tp4324
+a(S'unjustified claims'
+p4325
+V0.37346
+p4326
+tp4327
+a(S'foreign companies'
+p4328
+V0.370767
+p4329
+tp4330
+a(S'homegrown Baidu'
+p4331
+V0.368871
+p4332
+tp4333
+a(S'small percentage'
+p4334
+V0.365885
+p4335
+tp4336
+a(S'Beijing-based company'
+p4337
+V0.365705
+p4338
+tp4339
+a(S'anti-authoritarian uprisings'
+p4340
+V0.365575
+p4341
+tp4342
+a(S'Marbridge Consulting'
+p4343
+V0.364283
+p4344
+tp4345
+a(S'search market'
+p4346
+V0.364177
+p4347
+tp4348
+a(S'difficult times'
+p4349
+V0.363857
+p4350
+tp4351
+a(S'Mark Natkin'
+p4352
+V0.362508
+p4353
+tp4354
+a(S'fresh headaches'
+p4355
+V0.361093
+p4356
+tp4357
+a(S'total value'
+p4358
+V0.360084
+p4359
+tp4360
+a(S'brief story'
+p4361
+V0.357315
+p4362
+tp4363
+a(S'search engine'
+p4364
+V0.355674
+p4365
+tp4366
+a(S'host country'
+p4367
+V0.351117
+p4368
+tp4369
+a(S'global reputation'
+p4370
+V0.3511
+p4371
+tp4372
+a(S'local laws'
+p4373
+V0.348873
+p4374
+tp4375
+a(S'foreign ministry'
+p4376
+V0.347069
+p4377
+tp4378
+aa(lp4379
+(S'Comic Sans'
+p4380
+V0.999096
+p4381
+tp4382
+a(S'Wall Street Journal'
+p4383
+V0.846902
+p4384
+tp4385
+a(S'font Comic Sans'
+p4386
+V0.739419
+p4387
+tp4388
+a(S'Google Chrome tool'
+p4389
+V0.721128
+p4390
+tp4391
+a(S'default Google font'
+p4392
+V0.715194
+p4393
+tp4394
+a(S'Google webmaster team'
+p4395
+V0.690107
+p4396
+tp4397
+a(S'tech April Fools'
+p4398
+V0.662939
+p4399
+tp4400
+a(S'Chrome Web browser'
+p4401
+V0.63275
+p4402
+tp4403
+a(S'Rick Astley singing'
+p4404
+V0.631678
+p4405
+tp4406
+a(S'Digits News Headline'
+p4407
+V0.63099
+p4408
+tp4409
+a(S'Street Journal article'
+p4410
+V0.627922
+p4411
+tp4412
+a(S'Fools jokes'
+p4413
+V0.615552
+p4414
+tp4415
+a(S'New Facebook Offices'
+p4416
+V0.61528
+p4417
+tp4418
+a(S'New York Times'
+p4419
+V0.610245
+p4420
+tp4421
+a(S'special little treat'
+p4422
+V0.609774
+p4423
+tp4424
+a(S'Web pages'
+p4425
+V0.609282
+p4426
+tp4427
+a(S'personal tech coverage'
+p4428
+V0.604693
+p4429
+tp4430
+a(S'Drastically Reduced Prices'
+p4431
+V0.603083
+p4432
+tp4433
+a(S'Apple Makes Friends'
+p4434
+V0.60173
+p4435
+tp4436
+a(S'Lauren Goode ______________________________________________________'
+p4437
+V0.60105
+p4438
+tp4439
+a(S'Movie Studio Execs'
+p4440
+V0.60086
+p4441
+tp4442
+a(S'Obama Ditches BlackBerry'
+p4443
+V0.598503
+p4444
+tp4445
+a(S'Mark Zuckerberg Shows'
+p4446
+V0.598307
+p4447
+tp4448
+a(S'Twitter Removes Character'
+p4449
+V0.597352
+p4450
+tp4451
+a(S'Google products'
+p4452
+V0.594075
+p4453
+tp4454
+a(S'Web force'
+p4455
+V0.547824
+p4456
+tp4457
+a(S'search tool'
+p4458
+V0.538793
+p4459
+tp4460
+a(S'Comic Sans.'
+p4461
+V0.53735
+p4462
+tp4463
+a(S'news organization'
+p4464
+V0.5331
+p4465
+tp4466
+a(S'video links'
+p4467
+V0.532628
+p4468
+tp4469
+a(S'fake news'
+p4470
+V0.531835
+p4471
+tp4472
+a(S'all-out campaign'
+p4473
+V0.53154
+p4474
+tp4475
+a(S'latest news'
+p4476
+V0.530693
+p4477
+tp4478
+a(S'Gmail team'
+p4479
+V0.529772
+p4480
+tp4481
+a(S'Gmail Motion'
+p4482
+V0.528259
+p4483
+tp4484
+a(S'Internet denizens'
+p4485
+V0.52643
+p4486
+tp4487
+a(S'Friday morning'
+p4488
+V0.524975
+p4489
+tp4490
+a(S'breaking news'
+p4491
+V0.524975
+p4492
+tp4493
+a(S'email users'
+p4494
+V0.521853
+p4495
+tp4496
+a(S'search giant'
+p4497
+V0.52149
+p4498
+tp4499
+a(S'snappy video'
+p4500
+V0.520941
+p4501
+tp4502
+a(S'graphic designers'
+p4503
+V0.520639
+p4504
+tp4505
+a(S'Huffington Post'
+p4506
+V0.519813
+p4507
+tp4508
+a(S'best tech'
+p4509
+V0.517937
+p4510
+tp4511
+a(S'effective way'
+p4512
+V0.517829
+p4513
+tp4514
+a(S'user happiness.'
+p4515
+V0.517756
+p4516
+tp4517
+a(S'New App'
+p4518
+V0.514466
+p4519
+tp4520
+a(S'gesture commands'
+p4521
+V0.514047
+p4522
+tp4523
+a(S'job listing'
+p4524
+V0.512967
+p4525
+tp4526
+a(S'comprehensive list'
+p4527
+V0.511914
+p4528
+tp4529
+aa(lp4530
+(S'Windows Phone'
+p4531
+V0.948838
+p4532
+tp4533
+a(S'Windows Phones'
+p4534
+V0.622996
+p4535
+tp4536
+a(S'apps'
+p4537
+V0.565665
+p4538
+tp4539
+a(S'rousing success'
+p4540
+V0.557093
+p4541
+tp4542
+a(S'outsell Windows Phones'
+p4543
+V0.553998
+p4544
+tp4545
+a(S'Windows Phone Marketplace'
+p4546
+V0.546942
+p4547
+tp4548
+a(S'chest-beating blog post'
+p4549
+V0.540349
+p4550
+tp4551
+a(S'lack expandable storage'
+p4552
+V0.518578
+p4553
+tp4554
+a(S'biggest bright spot'
+p4555
+V0.493274
+p4556
+tp4557
+a(S'great gaming platform'
+p4558
+V0.490609
+p4559
+tp4560
+a(S'Android phones'
+p4561
+V0.463379
+p4562
+tp4563
+a(S'app count'
+p4564
+V0.439891
+p4565
+tp4566
+a(S'Android phone'
+p4567
+V0.439018
+p4568
+tp4569
+a(S'app marketplace'
+p4570
+V0.438837
+p4571
+tp4572
+a(S'Robert Scoble'
+p4573
+V0.434598
+p4574
+tp4575
+a(S'different languages'
+p4576
+V0.430956
+p4577
+tp4578
+a(S'tech pundits'
+p4579
+V0.427992
+p4580
+tp4581
+a(S'absolute certainty'
+p4582
+V0.423904
+p4583
+tp4584
+a(S'dual-core processors'
+p4585
+V0.423558
+p4586
+tp4587
+a(S'Microsoft'
+p4588
+V0.416177
+p4589
+tp4590
+a(S'Verizon Wireless'
+p4591
+V0.415278
+p4592
+tp4593
+a(S'U.K. retailer'
+p4594
+V0.414578
+p4595
+tp4596
+a(S'Microsoft finishes'
+p4597
+V0.410908
+p4598
+tp4599
+a(S'new stats'
+p4600
+V0.410515
+p4601
+tp4602
+a(S'front-facing cameras'
+p4603
+V0.410154
+p4604
+tp4605
+a(S'software update'
+p4606
+V0.40976
+p4607
+tp4608
+a(S'on-board storage'
+p4609
+V0.408692
+p4610
+tp4611
+a(S'Xbox Live'
+p4612
+V0.405336
+p4613
+tp4614
+a(S'hardware envelope'
+p4615
+V0.405261
+p4616
+tp4617
+a(S'tech news'
+p4618
+V0.404003
+p4619
+tp4620
+a(S'Facebook'
+p4621
+V0.345979
+p4622
+tp4623
+a(S'Twitter'
+p4624
+V0.343893
+p4625
+tp4626
+a(S'number'
+p4627
+V0.341247
+p4628
+tp4629
+a(S'GB'
+p4630
+V0.341235
+p4631
+tp4632
+a(S'people'
+p4633
+V0.341228
+p4634
+tp4635
+a(S'mind'
+p4636
+V0.335292
+p4637
+tp4638
+a(S'NoDo'
+p4639
+V0.330683
+p4640
+tp4641
+a(S'Yelp'
+p4642
+V0.328609
+p4643
+tp4644
+a(S'disappointment'
+p4645
+V0.328277
+p4646
+tp4647
+a(S'LG'
+p4648
+V0.326407
+p4649
+tp4650
+a(S'drawbacks'
+p4651
+V0.325899
+p4652
+tp4653
+a(S'percent'
+p4654
+V0.324482
+p4655
+tp4656
+a(S'handsets'
+p4657
+V0.324113
+p4658
+tp4659
+a(S'Shazam'
+p4660
+V0.323861
+p4661
+tp4662
+a(S'WinPho7'
+p4663
+V0.322921
+p4664
+tp4665
+a(S'wallpapers'
+p4666
+V0.32286
+p4667
+tp4668
+a(S'ecosystem'
+p4669
+V0.322836
+p4670
+tp4671
+a(S'developers'
+p4672
+V0.322711
+p4673
+tp4674
+a(S'potential'
+p4675
+V0.322636
+p4676
+tp4677
+a(S'growth'
+p4678
+V0.322625
+p4679
+tp4680
+aa(lp4681
+(S'Page Speed Online'
+p4682
+V0.911799
+p4683
+tp4684
+a(S'performance'
+p4685
+V0.422005
+p4686
+tp4687
+a(S'Page Speed browser'
+p4688
+V0.409089
+p4689
+tp4690
+a(S'Page Speed plugins'
+p4691
+V0.408899
+p4692
+tp4693
+a(S'Page Speed SDK'
+p4694
+V0.407705
+p4695
+tp4696
+a(S'Google Labs launch'
+p4697
+V0.401953
+p4698
+tp4699
+a(S'site'
+p4700
+V0.396608
+p4701
+tp4702
+a(S'page load time'
+p4703
+V0.393178
+p4704
+tp4705
+a(S'following guest post'
+p4706
+V0.389688
+p4707
+tp4708
+a(S'server response time'
+p4709
+V0.38743
+p4710
+tp4711
+a(S'site improvement suggestions'
+p4712
+V0.384728
+p4713
+tp4714
+a(S'website owners'
+p4715
+V0.384673
+p4716
+tp4717
+a(S'specific performance fixes'
+p4718
+V0.383556
+p4719
+tp4720
+a(S'mobile device CPUs'
+p4721
+V0.381967
+p4722
+tp4723
+a(S'Steve Souders'
+p4724
+V0.381877
+p4725
+tp4726
+a(S'website owners measure'
+p4727
+V0.380664
+p4728
+tp4729
+a(S'performance analysis'
+p4730
+V0.380292
+p4731
+tp4732
+a(S'Disrupt runner-up CloudFlare'
+p4733
+V0.37737
+p4734
+tp4735
+a(S'fastest search engine'
+p4736
+V0.377318
+p4737
+tp4738
+a(S'web search ranking'
+p4739
+V0.376536
+p4740
+tp4741
+a(S'Venture capitalist Fred'
+p4742
+V0.3728
+p4743
+tp4744
+a(S'site speed'
+p4745
+V0.371706
+p4746
+tp4747
+a(S'Performance matters'
+p4748
+V0.357786
+p4749
+tp4750
+a(S'performance improvements'
+p4751
+V0.356136
+p4752
+tp4753
+a(S'Google employee'
+p4754
+V0.353737
+p4755
+tp4756
+a(S'performance data'
+p4757
+V0.352357
+p4758
+tp4759
+a(S'performance guru'
+p4760
+V0.349793
+p4761
+tp4762
+a(S'new startup'
+p4763
+V0.349414
+p4764
+tp4765
+a(S'easy way'
+p4766
+V0.34906
+p4767
+tp4768
+a(S'instant suggestions'
+p4769
+V0.347353
+p4770
+tp4771
+a(S'Josh Fraser'
+p4772
+V0.347081
+p4773
+tp4774
+a(S'inaccurate picture'
+p4775
+V0.346475
+p4776
+tp4777
+a(S'webkit-based renderer'
+p4778
+V0.346375
+p4779
+tp4780
+a(S'desktop CPUs'
+p4781
+V0.345762
+p4782
+tp4783
+a(S'complete picture'
+p4784
+V0.345314
+p4785
+tp4786
+a(S'instant feedback'
+p4787
+V0.344418
+p4788
+tp4789
+a(S'comparative tools'
+p4790
+V0.344389
+p4791
+tp4792
+a(S'easiest way'
+p4793
+V0.344098
+p4794
+tp4795
+a(S'loading time'
+p4796
+V0.343869
+p4797
+tp4798
+a(S'long-time champion'
+p4799
+V0.343298
+p4800
+tp4801
+a(S'mobile-specific recommendations'
+p4802
+V0.342736
+p4803
+tp4804
+a(S'Bryan McQuade'
+p4805
+V0.342637
+p4806
+tp4807
+a(S'CPU consumption'
+p4808
+V0.342571
+p4809
+tp4810
+a(S'tech lead'
+p4811
+V0.341818
+p4812
+tp4813
+a(S'download conversions'
+p4814
+V0.341758
+p4815
+tp4816
+a(S'webmaster tools'
+p4817
+V0.341487
+p4818
+tp4819
+a(S'mobile-targeted analysis'
+p4820
+V0.341487
+p4821
+tp4822
+a(S'startup CTO'
+p4823
+V0.341236
+p4824
+tp4825
+a(S'important step'
+p4826
+V0.341188
+p4827
+tp4828
+a(S'mobile phone'
+p4829
+V0.341113
+p4830
+tp4831
+aa.
