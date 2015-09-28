@@ -9,11 +9,12 @@ import pickle
 
 def main():  
   preload = 1
+  classifier_type = 'logistic'
   top_k = 15
   verbose = 1
 
   # get keyword classifier
-  keyword_classifier = get_keywordclassifier(preload)['model']
+  keyword_classifier = get_keywordclassifier(preload,classifier_type)['model']
 
   # evaluate on Crowd500 test set
   testdata = get_crowdd500_data('test')
@@ -45,7 +46,7 @@ def main():
   print 'F-1 score: Mean = %.4f, SEM = %.4f' % (np.mean(performance_data[:,2]),np.std(performance_data[:,2])/float(np.sqrt(num_docs)))
   print '--------------------------------------------------------------'
   
-  pickle.dump(performance_data,open('saved/model_evaluation.pkl','wb'))
+  pickle.dump(performance_data,open('saved/'+classifier_type+'_model_evaluation.pkl','wb'))
   return
 
 if __name__ == '__main__':

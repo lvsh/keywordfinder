@@ -18,6 +18,7 @@ from gensim import corpora, models, similarities
 from collections import defaultdict
 
 from sklearn.linear_model import LogisticRegression
+from sklearn.ensemble import RandomForestClassifier
 from sklearn.cross_validation import cross_val_score
 
 from features import *
@@ -155,14 +156,17 @@ def get_features_labels(data,corpus,dictionary,verbose):
 # functions to perform keyword extraction #
 ###########################################
 
-def get_keywordclassifier(preload):
+def get_keywordclassifier(preload,classifier_type):
   """
   Returns a keyword classifier trained and tested on dataset derived from Crowd500 [Marujo2012]
   """  
   if preload==1:
     train_XY = pickle.load(open('saved/trainXY_crowd500.pkl','rb'))
     test_XY = pickle.load(open('saved/testXY_crowd500.pkl','rb'))    
-    model = pickle.load(open('saved/logisticregression_crowd500.pkl','rb'))    
+    if classifier_type=='logistic':
+      model = pickle.load(open('saved/logisticregression_crowd500.pkl','rb'))    
+    else:
+      model = pickle.load(open('saved/randomforest_crowd500.pkl','rb'))    
   else:
     # get training data from crowd500 corpus
     traindata = get_crowdd500_data('train')
@@ -185,20 +189,33 @@ def get_keywordclassifier(preload):
     test_XY = get_features_labels(testdata,tx_testdata['corpus'],tx_testdata['dictionary'],1)
     pickle.dump(test_XY, open('saved/testXY_crowd500.pkl','wb'))
 
+    #  to train random forest on same training data as logistic regression classifier, 
+    #  uncomment these lines and comment lines above
+    # train_XY = pickle.load(open('saved/trainXY_crowd500.pkl','rb'))
+    # test_XY = pickle.load(open('saved/testXY_crowd500.pkl','rb'))    
+ 
     # train model for keyword classification 
-    model = LogisticRegression()
-    model = model.fit(train_XY['features'],train_XY['labels'])
-    pickle.dump(model, open('saved/logisticregression_crowd500.pkl','wb'))    
+    if classifier_type=='logistic':
+      model = LogisticRegression()
+      model = model.fit(train_XY['features'],train_XY['labels'])
+      pickle.dump(model, open('saved/logisticregression_crowd500.pkl','wb'))    
+    else:
+      model = RandomForestClassifier(n_estimators=10)
+      model = model.fit(train_XY['features'],train_XY['labels'])
+      pickle.dump(model, open('saved/randomforest_crowd500.pkl','wb'))    
 
   # show performance of classifier
-  in_sample_acc = model.score(train_XY['features'],train_XY['labels'])
-  out_sample_acc = model.score(test_XY['features'],test_XY['labels'])
-  print '-----------------------------------------------------------------------------------------'
-  print 'Using logistic regression model for keyword classification (0 = non-keyword, 1 = keyword)'
+  in_sample_acc = cross_val_score(model, train_XY['features'], train_XY['labels'], cv=4)
+  out_sample_acc = cross_val_score(model, test_XY['features'], test_XY['labels'], cv=4)
+  print '---------------------------------------------------------------------------------------------------------'
+  if classifier_type=='logistic':
+    print 'Using logistic regression model for keyword classification (0 = non-keyword, 1 = keyword)'
+  else:
+    print 'Using random forest model for keyword classification (0 = non-keyword, 1 = keyword)'    
   print 'Trained and tested on dataset derived from Crowd500 [Marujo2012]'
   print 'Number of features = %d, Number of training samples = %d, Number of test samples %d' % (train_XY['features'].shape[1],train_XY['features'].shape[0],test_XY['features'].shape[0])
-  print 'In-sample accuracy: %.4f, Out-of-sample accuracy: %.4f, Chance: 0.5' % (in_sample_acc,out_sample_acc)
-  print '-----------------------------------------------------------------------------------------'
+  print 'In-sample cross-validated accuracy: %.4f, Out-of-sample cross-validated accuracy: %.4f, Chance: 0.5' % (in_sample_acc.mean(),out_sample_acc.mean())
+  print '---------------------------------------------------------------------------------------------------------'
   
   return {'model': model, 'train_XY':train_XY, 'test_XY':test_XY}
 
