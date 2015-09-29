@@ -23,7 +23,12 @@ def main():
   performance_data = np.zeros((num_docs,3))
   for doc_idx in xrange(num_docs):
     text = testdata['documents'][doc_idx]
-    true_keywords = testdata['keywords'][doc_idx]
+    true_keyphrases = testdata['keywords'][doc_idx]
+    
+    true_keywords = []
+    for phrase in true_keyphrases:
+      true_keywords.extend(phrase.lower().split())
+
     if doc_idx == 0:
       suggested_keywords = extract_keywords(text,keyword_classifier,top_k,preload)
     else:

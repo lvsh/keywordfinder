@@ -283,7 +283,9 @@ def evaluate_keywords(proposed,groundtruth):
   if len(proposed_set)==0:
     precision = 0
   else:
-    precision = true_positives/float(len(proposed_set))
+    # note denominator reflects total number of words
+    # not total number of unique words
+    precision = true_positives/float(len(proposed)) 
       
   if len(true_set)==0:
     recall = 0

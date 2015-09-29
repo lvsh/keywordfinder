@@ -3,7 +3,6 @@
 Evaluate AlchemyAPI keyword extraction method on held out set of Crowd500 dataset [Marujo2012]
 """
 
-import json
 import pickle
 import numpy as np
 from keywordextraction import get_crowdd500_data,evaluate_keywords
@@ -22,12 +21,25 @@ def main():
   
   performance_data = np.zeros((num_docs,3))
   for doc_idx in xrange(num_docs):
-    true_keywords = testdata['keywords'][doc_idx]
+    true_keyphrases = testdata['keywords'][doc_idx]
+    
+    true_keywords = []
+    for phrase in true_keyphrases:
+      true_keywords.extend(phrase.lower().split())
+
     suggested_keywords = []
     for (keyword,score) in alchemy_keywords[doc_idx]:
       suggested_keywords.extend(keyword.lower().split())
 
-    (precision,recall,f1score) = evaluate_keywords(suggested_keywords[:top_k],true_keywords)
+    # take top k unique keywords rather than top k keywords (alchemy ranks related phrases similarly)
+    top_k_suggestions = []
+    i = 0
+    while (i < len(suggested_keywords)-1) and (len(top_k_suggestions) < top_k):
+        if suggested_keywords[i] not in top_k_suggestions:
+            top_k_suggestions.append(suggested_keywords[i])            
+        i += 1
+
+    (precision,recall,f1score) = evaluate_keywords(top_k_suggestions,true_keywords)
     performance_data[doc_idx,0] = precision
     performance_data[doc_idx,1] = recall
     performance_data[doc_idx,2] = f1score
