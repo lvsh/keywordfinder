@@ -1,0 +1,8 @@
+gensim == 0.12.2
+nltk == 3.0.5
+numpy == 1.9.3
+pickleshare == 0.5
+requests == 2.7.0
+simplejson == 3.8.0
+scikit-learn == 0.15.2
+wikiwords == 0.5
