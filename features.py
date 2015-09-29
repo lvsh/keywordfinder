@@ -99,8 +99,8 @@ def get_termfrequency(text,candidate_keywords):
   Returns normalized term frequency for given keywords in text
   """
   words = [remove_punctuation(w) for w in text.lower().split()]
-  words_str = ' '.join(words)
-  return [len(re.findall(re.escape(c),words_str))/float(len(words)) for c in candidate_keywords]
+  return [sum([1 for w in words if w==c])/float(len(words)) for c in candidate_keywords]
+  #return [len(re.findall(re.escape(c),text.lower()))/float(len(words)) for c in candidate_keywords]
 
 
 def get_tfidf(candidate_keywords,corpus_entry,dictionary):
@@ -127,21 +127,23 @@ def get_tfidf(candidate_keywords,corpus_entry,dictionary):
 
 def get_length(candidate_keywords):
   """
-  Returns number of characters in each keyword
+  Returns normalized number of characters in each keyword
   """
-  return [len(c) for c in candidate_keywords]
+  max_chars = 50
+  return [len(c)/float(max_chars) for c in candidate_keywords]
 
 
 def get_position(text,candidate_keywords):
   """
-  Returns first occurence of each keyword in text
+  Returns first occurence of each keyword divided by total number 
+  of words in text
   """
   words = [remove_punctuation(w) for w in text.lower().split()]  
   position = []
   for candidate in candidate_keywords:
     occurences = [pos for pos,w in enumerate(words) if w == candidate]
     if len(occurences)>0:
-      position.append(occurences[0])
+      position.append(occurences[0]/float(len(words)))
     else:
       position.append(0)
           
@@ -191,9 +193,10 @@ def get_capitalized(text,candidate_keywords):
 
 def get_wikifrequencies(candidate_keywords):
   """
-  Return absolute word frequency for each keyword in Wikipedia
+  Return normalized word frequency for each keyword in Wikipedia
   """
-  return [wikiwords.freq(w) for w in candidate_keywords]
+  max_frequency = wikiwords.freq('the')
+  return [wikiwords.freq(w)/float(max_frequency) for w in candidate_keywords]
 
 
 def extract_features(text,candidate_keywords,corpus_entry,dictionary):
