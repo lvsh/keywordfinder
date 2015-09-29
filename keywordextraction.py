@@ -263,11 +263,6 @@ def extract_keywords(text,keyword_classifier,top_k,preload):
   sorted_indices = [i[0] for i in sorted(enumerate(predicted_prob[:,this_column]),key = lambda x:x[1],reverse = True)]
   chosen_keywords = [candidate_keywords[j] for j in sorted_indices[:top_k]]    
   
-  # predicted_labels = keyword_classifier.predict(feature_set['features'])
-  # chosen_keywords = [candidate_keywords[j] for j in xrange(len(candidate_keywords)) if predicted_labels[j]==1]
-  # if len(chosen_keywords) > top_k:
-  #   chosen_keywords = random.sample(chosen_keywords,top_k)
-
   return chosen_keywords
 
 
@@ -276,6 +271,9 @@ def extract_keywords(text,keyword_classifier,top_k,preload):
 ######################################################
 
 def evaluate_keywords(proposed,groundtruth):
+  """
+  Returns precision, recall, and f1 score for proposed keywords against ground truth
+  """
   proposed_set = set(proposed)
   true_set = set(groundtruth)
   
