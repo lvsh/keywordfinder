@@ -31,12 +31,22 @@
         <h1>
 <a id="automatic-keyword-extraction-from-text" class="anchor" href="#automatic-keyword-extraction-from-text" aria-hidden="true"><span class="octicon octicon-link"></span></a>Automatic keyword extraction from text</h1>
 
-<p>As an <a href="http://insightdatascience.com/">Insight Data Science Fellow</a>, I completed a 3-week project that involved building a keyword extraction system. Given a block of text as input, the system selects keywords that describe what the text is about. Keywords are useful, compact descriptions of the original text, and they are widely used in information retrieval. </p>
+<p>As an <a href="http://insightdatascience.com/">Insight Data Science Fellow</a>, I completed a 3-week project that involved building a keyword extraction algorithm. Given a block of text as input, the algorithm selects keywords that describe what the text is about. Keywords are useful, compact descriptions of the original text, and they are widely used in information retrieval. </p>
 
-<h3>
-<a id="background" class="anchor" href="#background" aria-hidden="true"><span class="octicon octicon-link"></span></a>Background</h3>
+<h4>
+<a id="background" class="anchor" href="#background" aria-hidden="true"><span class="octicon octicon-link"></span></a>Background</h4>
 
-<p>For this project, I partnered with <a href="http://urx.com/">URX</a>, a San Francisco-based startup in the mobile advertising space. URX focuses on matching advertisers to content providers, in a context-relevant way. For example, if the content consists of a news article about hip-hop music, URX serves an ad for Spotify, a music streaming service. Finding the right ad is important </p>
+<p>For this project, I partnered with <a href="http://urx.com/">URX</a>, a San Francisco-based startup in the mobile advertising space. URX matches advertisers and content providers, in a context-specific way. For example, if the content consists of a news article about hip-hop music, URX serves an ad for Spotify, a music streaming service. URX accomplishes this matching by extracting keywords from a content page, using those keywords to index into a database of advertisers, and serving the best matching ad.   </p>
+
+<p>In my project, I focused on the keyword extraction step, and I built a prototype keyword extractor for URX. The deliverables were: (i) an algorithm for keyword extraction; and (ii) Python scripts to implement the algorithm. To learn about the algorithm I developed, check out the <a href="http://people.csail.mit.edu/lavanya/keywordfinder">project page</a>. </p>
+
+<h4>
+<a id="running-the-code" class="anchor" href="#running-the-code" aria-hidden="true"><span class="octicon octicon-link"></span></a>Running the code</h4>
+
+<p>To get started, run the example:</p>
+
+<pre><code>python example.py inspec.txt
+</code></pre>
       </section>
       <footer>
         <p>This project is maintained by <a href="https://github.com/lvsh">lvsh</a></p>
