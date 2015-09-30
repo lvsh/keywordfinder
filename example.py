@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding:utf-8
 """
-An example of how to use the keyword extraction model 
+Runs the keyword extraction algorithmn on an example
 """
 __author__ = "Lavanya Sharan"
 
@@ -37,7 +37,7 @@ def main():
     true_keywords = [remove_punctuation(kw.lower()) for kw in true_keywords]
 
     (precision,recall,f1score) = evaluate_keywords(keywords,true_keywords)
-    print 'MANUALLY SELECTED KEYWORDS:\n%s' % ', '.join(true_keywords)
+    print 'MANUALLY SPECIFIED KEYWORDS:\n%s' % ', '.join(true_keywords)
     print '\nModel achieves %.4f precision, %.4f recall, and %.4f f1 score.' % (precision,recall,f1score)
 
 
