@@ -1,7 +1,7 @@
-Automatic keyword extraction from text
-=======================================
+Automatic keyword extraction
+============================
 
-As an [Insight Data Science Fellow](http://insightdatascience.com/), I completed a 3-week project that involved building a keyword extraction algorithm. Given a block of text as input, the algorithm selects keywords that describe what the text is about. Keywords are useful, compact descriptions of the original text, and they are widely used in information retrieval. 
+As an [Insight Data Science Fellow](http://insightdatascience.com/), I completed a 3-week project that involved building a keyword extraction algorithm. Given a block of text as input, the algorithm selects keywords that describe what the text is about. Keywords are useful, compact descriptions of the original text, and they are widely used in information retrieval applications. 
 
 #### Background
 
@@ -16,3 +16,22 @@ To get started, run the example:
 ```
 python example.py inspec.txt
 ```
+
+To evaluate the algorithm on [Crowd500](https://github.com/snkim/AutomaticKeyphraseExtraction) dataset from [Marujo et al., 2012](http://www.lrec-conf.org/proceedings/lrec2012/pdf/672_Paper.pdf), run:
+
+```
+python evaluatemodel.py 
+```
+Note that the algorithm is trained on the train set of Crowd500, but it is evaluated only on the test set of Crowd500. 
+
+For comparison, I provide two baselines: random and [AlchemyAPI](http://www.alchemyapi.com/). The random baseline selects words at random from the given text, whereas the AlchemyAPI baseline consists of keywords returned by the Alchemy analytics engine. The top-15 keyword evaluation methodology is similar to that of [Jean-Louis et al., 2014](http://azouaq.athabascau.ca/publications/Conferences,%20Workshops,%20Books/%5BC28%5D_PRICAI_2014.pdf).
+
+```
+python evaluaterandom.py 
+python evaluatealchemy.py 
+```
+
+My algorithm (f1 score = 23.95) outperforms AlchemyAPI (f1 score = 21.19), and beats the random baseline quite easily (f1 = 8.41). It is worth noting that my algorithm was trained on the Crowd500 train set, whereas the Alchemy keyword extractor (presumably) was not. Additionally, Alchemy excels at returning keyphrases rather than keywords, which this benchmark does not assess. 
+
+
+
