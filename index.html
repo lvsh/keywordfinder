@@ -29,9 +29,9 @@
       </header>
       <section>
         <h1>
-<a id="automatic-keyword-extraction-from-text" class="anchor" href="#automatic-keyword-extraction-from-text" aria-hidden="true"><span class="octicon octicon-link"></span></a>Automatic keyword extraction from text</h1>
+<a id="automatic-keyword-extraction" class="anchor" href="#automatic-keyword-extraction" aria-hidden="true"><span class="octicon octicon-link"></span></a>Automatic keyword extraction</h1>
 
-<p>As an <a href="http://insightdatascience.com/">Insight Data Science Fellow</a>, I completed a 3-week project that involved building a keyword extraction algorithm. Given a block of text as input, the algorithm selects keywords that describe what the text is about. Keywords are useful, compact descriptions of the original text, and they are widely used in information retrieval. </p>
+<p>As an <a href="http://insightdatascience.com/">Insight Data Science Fellow</a>, I completed a 3-week project that involved building a keyword extraction algorithm. Given a block of text as input, the algorithm selects keywords that describe what the text is about. Keywords are useful, compact descriptions of the original text, and they are widely used in information retrieval applications. </p>
 
 <h4>
 <a id="background" class="anchor" href="#background" aria-hidden="true"><span class="octicon octicon-link"></span></a>Background</h4>
@@ -47,6 +47,21 @@
 
 <pre><code>python example.py inspec.txt
 </code></pre>
+
+<p>To evaluate the algorithm on <a href="https://github.com/snkim/AutomaticKeyphraseExtraction">Crowd500</a> dataset from <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/672_Paper.pdf">Marujo et al., 2012</a>, run:</p>
+
+<pre><code>python evaluatemodel.py 
+</code></pre>
+
+<p>Note that the algorithm is trained on the train set of Crowd500, but it is evaluated only on the test set of Crowd500. </p>
+
+<p>For comparison, I provide two baselines: random and <a href="http://www.alchemyapi.com/">AlchemyAPI</a>. The random baseline selects words at random from the given text, whereas the AlchemyAPI baseline consists of keywords returned by the Alchemy analytics engine. The top-15 keyword evaluation methodology is similar to that of <a href="http://azouaq.athabascau.ca/publications/Conferences,%20Workshops,%20Books/%5BC28%5D_PRICAI_2014.pdf">Jean-Louis et al., 2014</a>.</p>
+
+<pre><code>python evaluaterandom.py 
+python evaluatealchemy.py 
+</code></pre>
+
+<p>My algorithm (f1 score = 23.95) outperforms AlchemyAPI (f1 score = 21.19), and beats the random baseline quite easily (f1 = 8.41). It is worth noting that my algorithm was trained on the Crowd500 train set, whereas the Alchemy keyword extractor (presumably) was not. Additionally, Alchemy excels at returning keyphrases rather than keywords, which this benchmark does not assess. </p>
       </section>
       <footer>
         <p>This project is maintained by <a href="https://github.com/lvsh">lvsh</a></p>
