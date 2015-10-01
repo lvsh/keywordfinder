@@ -44,7 +44,7 @@ def main():
     performance_data[doc_idx,1] = recall
     performance_data[doc_idx,2] = f1score
     if verbose == 1:
-      print 'Document %d of %d: f1-score for top-%d keywords extracted by model = %.4f' % (doc_idx,num_docs,top_k,f1score)
+      print 'Document %d of %d: f1-score for top-%d keywords extracted by model = %.4f' % (doc_idx+1,num_docs,top_k,f1score)
 
   print '----------------------------------------------------------------'
   print 'Evaluation of AlchemyAPI keyword extraction on Crowd500 test set'
